@@ -1,0 +1,3708 @@
+Using mxnet backend.
+loading csv data into memory...
+loading completed!
+preprocessing data...
+preprocessing completed!
+query>task1a Thriller SVD
+Latent Semantic  1
+geeks 1.0
+action 0.0
+animated 0.0
+animation 0.0
+anime 0.0
+atmospheric 0.0
+bad acting 0.0
+based on a tv show 0.0
+based on book 0.0
+best war films 0.0
+boring 0.0
+boxing 0.0
+buddy movie 0.0
+cannibalism 0.0
+cartoon 0.0
+cgi 0.0
+comedy 0.0
+comic book 0.0
+computer animation 0.0
+cool 0.0
+court 0.0
+crime 0.0
+dark 0.0
+directorial debut 0.0
+disney 0.0
+dreamworks 0.0
+drugs 0.0
+dumb but funny 0.0
+england 0.0
+espionage 0.0
+family 0.0
+fantasy 0.0
+fish 0.0
+franchise 0.0
+gore 0.0
+hackers 0.0
+hacking 0.0
+hannibal lecter 0.0
+harry potter 0.0
+heroine in tight suit 0.0
+hilarious 0.0
+history 0.0
+interesting 0.0
+magic 0.0
+marvel 0.0
+motorcycle 0.0
+murder 0.0
+musicians 0.0
+not funny 0.0
+nudity (rear) 0.0
+nudity (topless - brief) 0.0
+nudity (topless - notable) 0.0
+nudity (topless) 0.0
+over the top 0.0
+pirates 0.0
+pointless 0.0
+predictable 0.0
+psychology 0.0
+redemption 0.0
+remake 0.0
+san francisco 0.0
+sci-fi 0.0
+sequel 0.0
+serial killer 0.0
+slapstick 0.0
+superhero 0.0
+swashbuckler 0.0
+talking animals 0.0
+terrorism 0.0
+time travel 0.0
+video game adaptation 0.0
+violent 0.0
+war 0.0
+witch 0.0
+wizards 0.0
+world war ii 0.0
+wwii 0.0
+zombie 0.0
+zombies 0.0
+
+Latent Semantic  2
+crime 1.0
+action 0.0
+animated 0.0
+animation 0.0
+anime 0.0
+atmospheric 0.0
+bad acting 0.0
+based on a tv show 0.0
+based on book 0.0
+best war films 0.0
+boring 0.0
+boxing 0.0
+buddy movie 0.0
+cannibalism 0.0
+cartoon 0.0
+cgi 0.0
+comedy 0.0
+comic book 0.0
+computer animation 0.0
+cool 0.0
+court 0.0
+dark 0.0
+directorial debut 0.0
+disney 0.0
+dreamworks 0.0
+drugs 0.0
+dumb but funny 0.0
+england 0.0
+espionage 0.0
+family 0.0
+fantasy 0.0
+fish 0.0
+franchise 0.0
+geeks 0.0
+gore 0.0
+hackers 0.0
+hacking 0.0
+hannibal lecter 0.0
+harry potter 0.0
+heroine in tight suit 0.0
+hilarious 0.0
+history 0.0
+interesting 0.0
+magic 0.0
+marvel 0.0
+motorcycle 0.0
+murder 0.0
+musicians 0.0
+not funny 0.0
+nudity (rear) 0.0
+nudity (topless - brief) 0.0
+nudity (topless - notable) 0.0
+nudity (topless) 0.0
+over the top 0.0
+pirates 0.0
+pointless 0.0
+predictable 0.0
+psychology 0.0
+redemption 0.0
+remake 0.0
+san francisco 0.0
+sci-fi 0.0
+sequel 0.0
+serial killer 0.0
+slapstick 0.0
+superhero 0.0
+swashbuckler 0.0
+talking animals 0.0
+terrorism 0.0
+time travel 0.0
+video game adaptation 0.0
+violent 0.0
+war 0.0
+witch 0.0
+wizards 0.0
+world war ii 0.0
+wwii 0.0
+zombie 0.0
+zombies 0.0
+
+Latent Semantic  3
+nudity (topless) 1.0
+action 0.0
+animated 0.0
+animation 0.0
+anime 0.0
+atmospheric 0.0
+bad acting 0.0
+based on a tv show 0.0
+based on book 0.0
+best war films 0.0
+boring 0.0
+boxing 0.0
+buddy movie 0.0
+cannibalism 0.0
+cartoon 0.0
+cgi 0.0
+comedy 0.0
+comic book 0.0
+computer animation 0.0
+cool 0.0
+court 0.0
+crime 0.0
+dark 0.0
+directorial debut 0.0
+disney 0.0
+dreamworks 0.0
+drugs 0.0
+dumb but funny 0.0
+england 0.0
+espionage 0.0
+family 0.0
+fantasy 0.0
+fish 0.0
+franchise 0.0
+geeks 0.0
+gore 0.0
+hackers 0.0
+hacking 0.0
+hannibal lecter 0.0
+harry potter 0.0
+heroine in tight suit 0.0
+hilarious 0.0
+history 0.0
+interesting 0.0
+magic 0.0
+marvel 0.0
+motorcycle 0.0
+murder 0.0
+musicians 0.0
+not funny 0.0
+nudity (rear) 0.0
+nudity (topless - brief) 0.0
+nudity (topless - notable) 0.0
+over the top 0.0
+pirates 0.0
+pointless 0.0
+predictable 0.0
+psychology 0.0
+redemption 0.0
+remake 0.0
+san francisco 0.0
+sci-fi 0.0
+sequel 0.0
+serial killer 0.0
+slapstick 0.0
+superhero 0.0
+swashbuckler 0.0
+talking animals 0.0
+terrorism 0.0
+time travel 0.0
+video game adaptation 0.0
+violent 0.0
+war 0.0
+witch 0.0
+wizards 0.0
+world war ii 0.0
+wwii 0.0
+zombie 0.0
+zombies 0.0
+
+Latent Semantic  4
+action 0.0
+animated 0.0
+animation 0.0
+anime 0.0
+atmospheric 0.0
+bad acting 0.0
+based on a tv show 0.0
+based on book 0.0
+best war films 0.0
+boring 0.0
+boxing 0.0
+buddy movie 0.0
+cannibalism 0.0
+cartoon 0.0
+cgi 0.0
+comedy 0.0
+comic book 0.0
+computer animation 0.0
+cool 0.0
+crime 0.0
+dark 0.0
+directorial debut 0.0
+disney 0.0
+dreamworks 0.0
+drugs 0.0
+dumb but funny 0.0
+england 0.0
+espionage 0.0
+family 0.0
+fantasy 0.0
+fish 0.0
+franchise 0.0
+geeks 0.0
+gore 0.0
+hackers 0.0
+hacking 0.0
+hannibal lecter 0.0
+harry potter 0.0
+heroine in tight suit 0.0
+hilarious 0.0
+history 0.0
+interesting 0.0
+magic 0.0
+marvel 0.0
+motorcycle 0.0
+murder 0.0
+musicians 0.0
+not funny 0.0
+nudity (rear) 0.0
+nudity (topless - brief) 0.0
+nudity (topless - notable) 0.0
+nudity (topless) 0.0
+over the top 0.0
+pirates 0.0
+pointless 0.0
+predictable 0.0
+psychology 0.0
+redemption 0.0
+remake 0.0
+san francisco 0.0
+sci-fi 0.0
+sequel 0.0
+serial killer 0.0
+slapstick 0.0
+superhero 0.0
+swashbuckler 0.0
+talking animals 0.0
+time travel 0.0
+video game adaptation 0.0
+violent 0.0
+war 0.0
+witch 0.0
+wizards 0.0
+world war ii 0.0
+wwii 0.0
+zombie 0.0
+zombies 0.0
+terrorism -0.0100078807529
+court -0.999949919907
+
+query>task1a Thriller PCA
+Latent Semantic  0
+nudity (topless) 0.816469854554
+disney 1.75053991278e-15
+atmospheric 1.59048777983e-15
+action 1.53649442164e-15
+gore 6.76948820328e-16
+slapstick 5.7403630271e-16
+cannibalism 4.51947567325e-16
+animated 2.81699558747e-16
+zombie 2.66960627652e-16
+remake 1.78726457626e-16
+predictable 4.26014638499e-17
+zombies 9.561117096e-18
+hilarious 1.35879859927e-23
+best war films 0.0
+boxing 0.0
+cartoon 0.0
+cgi 0.0
+comedy 0.0
+comic book 0.0
+computer animation 0.0
+cool 0.0
+dark 0.0
+dreamworks 0.0
+drugs 0.0
+dumb but funny 0.0
+espionage 0.0
+family 0.0
+fantasy 0.0
+fish 0.0
+franchise 0.0
+hackers 0.0
+hacking 0.0
+harry potter 0.0
+heroine in tight suit 0.0
+history 0.0
+interesting 0.0
+magic 0.0
+marvel 0.0
+motorcycle 0.0
+murder 0.0
+musicians 0.0
+not funny 0.0
+nudity (rear) 0.0
+nudity (topless - notable) 0.0
+over the top 0.0
+pirates 0.0
+redemption 0.0
+san francisco 0.0
+sci-fi 0.0
+sequel 0.0
+superhero 0.0
+swashbuckler 0.0
+talking animals 0.0
+time travel 0.0
+video game adaptation 0.0
+war 0.0
+witch 0.0
+wizards 0.0
+world war ii 0.0
+wwii 0.0
+terrorism -2.15608374816e-17
+hannibal lecter -3.43333591745e-17
+boring -1.02958940264e-16
+nudity (topless - brief) -1.22702943953e-16
+buddy movie -1.80917680494e-16
+violent -2.18425689547e-16
+bad acting -2.42861286632e-16
+england -4.83919828481e-16
+psychology -7.56370239416e-16
+based on a tv show -1.01902460744e-15
+anime -1.40736426749e-15
+serial killer -1.43012180541e-15
+based on book -1.70337946108e-15
+directorial debut -1.74210596474e-15
+pointless -2.38486232649e-15
+animation -3.09294678254e-15
+court -3.60784195833e-15
+crime -0.402513699
+geeks -0.413956155555
+
+Latent Semantic  1
+crime 0.710386788154
+court 9.26721667603e-15
+zombies 4.97408241017e-15
+zombie 1.09387712012e-15
+remake 7.54321758216e-16
+action 6.11064620955e-16
+nudity (topless - brief) 4.97682923486e-16
+directorial debut 1.84150775214e-16
+terrorism 9.28997740295e-17
+bad acting 6.6239107688e-17
+anime 3.33651311281e-17
+disney 5.04912617667e-18
+best war films -0.0
+boxing -0.0
+cartoon -0.0
+cgi -0.0
+comedy -0.0
+comic book -0.0
+computer animation -0.0
+cool -0.0
+dark -0.0
+dreamworks -0.0
+drugs -0.0
+dumb but funny -0.0
+espionage -0.0
+family -0.0
+fantasy -0.0
+fish -0.0
+franchise -0.0
+hackers -0.0
+hacking -0.0
+harry potter -0.0
+heroine in tight suit -0.0
+history -0.0
+interesting -0.0
+magic -0.0
+marvel -0.0
+motorcycle -0.0
+murder -0.0
+musicians -0.0
+not funny -0.0
+nudity (rear) -0.0
+nudity (topless - notable) -0.0
+over the top -0.0
+pirates -0.0
+redemption -0.0
+san francisco -0.0
+sci-fi -0.0
+sequel -0.0
+superhero -0.0
+swashbuckler -0.0
+talking animals -0.0
+time travel -0.0
+video game adaptation -0.0
+war -0.0
+witch -0.0
+wizards -0.0
+world war ii -0.0
+wwii -0.0
+hilarious -4.19700740086e-23
+england -1.42591369563e-18
+buddy movie -2.62240093493e-18
+hannibal lecter -2.74754320819e-18
+boring -3.83447564619e-18
+animated -7.35820422672e-18
+atmospheric -7.81523878731e-18
+based on book -1.078474451e-17
+based on a tv show -1.12757025938e-17
+animation -4.88832096422e-17
+serial killer -8.13780323625e-17
+psychology -8.55584583394e-17
+cannibalism -1.79755431504e-16
+predictable -1.95616855517e-16
+gore -1.1699003985e-15
+slapstick -2.9021699973e-15
+violent -3.74576791329e-15
+pointless -4.6288478039e-15
+nudity (topless) -0.00660630537239
+geeks -0.703780482782
+
+Latent Semantic  2
+court 0.805639065037
+pointless 0.0701496017934
+terrorism 0.00806314349571
+zombies 0.0047552266522
+violent 0.00376718014125
+predictable 0.00297800339601
+slapstick 0.00292958382765
+cannibalism 0.00189985085293
+psychology 0.00170356521974
+serial killer 0.00160265630474
+gore 0.00118129346645
+zombie 0.00104628005436
+atmospheric 0.00101619433096
+remake 0.000716256863823
+action 0.000578372779172
+nudity (topless - brief) 0.000473078257121
+directorial debut 0.000178277020926
+boring 9.90755847277e-05
+hannibal lecter 5.57839316616e-05
+hilarious 4.24322711204e-11
+disney 5.41414213983e-17
+based on book 1.99343844263e-17
+anime 8.79395793786e-18
+bad acting -0.0
+based on a tv show -0.0
+best war films -0.0
+boxing -0.0
+cartoon -0.0
+cgi -0.0
+comedy -0.0
+comic book -0.0
+computer animation -0.0
+cool -0.0
+dark -0.0
+dreamworks -0.0
+drugs -0.0
+dumb but funny -0.0
+espionage -0.0
+family -0.0
+fantasy -0.0
+fish -0.0
+franchise -0.0
+hackers -0.0
+hacking -0.0
+harry potter -0.0
+heroine in tight suit -0.0
+history -0.0
+interesting -0.0
+magic -0.0
+marvel -0.0
+motorcycle -0.0
+murder -0.0
+musicians -0.0
+not funny -0.0
+nudity (rear) -0.0
+nudity (topless - notable) -0.0
+over the top -0.0
+pirates -0.0
+redemption -0.0
+san francisco -0.0
+sci-fi -0.0
+sequel -0.0
+superhero -0.0
+swashbuckler -0.0
+talking animals -0.0
+time travel -0.0
+video game adaptation -0.0
+war -0.0
+witch -0.0
+wizards -0.0
+world war ii -0.0
+wwii -0.0
+animated -5.01960223761e-18
+buddy movie -9.56221195333e-18
+england -1.62149497207e-17
+animation -8.91971611624e-17
+geeks -0.339554483721
+nudity (topless) -0.339554483721
+crime -0.339554483721
+
+Latent Semantic  3
+pointless 0.761827583486
+predictable 0.032341240332
+zombies 0.0177607213178
+violent 0.0140620589141
+slapstick 0.0109354952069
+cannibalism 0.00698625977366
+psychology 0.00626446499634
+serial killer 0.00589339592396
+gore 0.00440950995098
+zombie 0.00390784495143
+atmospheric 0.00373681837479
+remake 0.00267521182074
+action 0.00216021622101
+nudity (topless - brief) 0.00176694229334
+directorial debut 0.000665862790064
+boring 0.000364327426581
+hannibal lecter 0.000205132438256
+hilarious 1.58390380597e-10
+based on book 9.35595365121e-17
+animation 4.88218163783e-17
+disney 4.47461480479e-17
+bad acting 0.0
+based on a tv show 0.0
+best war films 0.0
+boxing 0.0
+cartoon 0.0
+cgi 0.0
+comedy 0.0
+comic book 0.0
+computer animation 0.0
+cool 0.0
+dark 0.0
+dreamworks 0.0
+drugs 0.0
+dumb but funny 0.0
+espionage 0.0
+family 0.0
+fantasy 0.0
+fish 0.0
+franchise 0.0
+hackers 0.0
+hacking 0.0
+harry potter 0.0
+heroine in tight suit 0.0
+history 0.0
+interesting 0.0
+magic 0.0
+marvel 0.0
+motorcycle 0.0
+murder 0.0
+musicians 0.0
+not funny 0.0
+nudity (rear) 0.0
+nudity (topless - notable) 0.0
+over the top 0.0
+pirates 0.0
+redemption 0.0
+san francisco 0.0
+sci-fi 0.0
+sequel 0.0
+superhero 0.0
+swashbuckler 0.0
+talking animals 0.0
+time travel 0.0
+video game adaptation 0.0
+war 0.0
+witch 0.0
+wizards 0.0
+world war ii 0.0
+wwii 0.0
+anime -4.59780708839e-18
+buddy movie -6.76181366272e-18
+england -1.34668945868e-17
+animated -3.47982365499e-17
+terrorism -0.00423615470333
+crime -0.282007932033
+nudity (topless) -0.282007932033
+geeks -0.282007932033
+court -0.423260694338
+
+query>task1a Thriller LDA
+Topic 1  :  {'zombies': '0.149', 'zombie': '0.054', 'psychology': '0.054', 'serial killer': '0.054', 'cannibalism': '0.054', 'directorial debut': '0.030', 'action': '0.030', 'nudity (topless - brief)': '0.030', 'atmospheric': '0.030', 'hannibal lecter': '0.030'}
+Topic 2  :  {'crime': '0.101', 'nudity (topless)': '0.013', 'geeks': '0.012', 'pointless': '0.012', 'terrorism': '0.012', 'court': '0.012', 'zombies': '0.012', 'predictable': '0.012', 'violent': '0.012', 'psychology': '0.012'}
+Topic 3  :  {'geeks': '0.101', 'nudity (topless)': '0.013', 'crime': '0.012', 'terrorism': '0.012', 'pointless': '0.012', 'court': '0.012', 'zombies': '0.012', 'violent': '0.012', 'predictable': '0.012', 'cannibalism': '0.012'}
+Topic 4  :  {'violent': '0.105', 'pointless': '0.072', 'slapstick': '0.040', 'hilarious': '0.040', 'gore': '0.040', 'predictable': '0.040', 'court': '0.040', 'terrorism': '0.040', 'nudity (topless)': '0.009', 'crime': '0.009'}
+query>task1b Thriller SVD
+Latent Semantic 1
+actor ID=1014988     :  0.0
+actor ID=1021526     :  0.0
+actor ID=1049512     :  0.0
+actor ID=1060304     :  0.0
+actor ID=1061413     :  0.0
+actor ID=1069742     :  0.0
+actor ID=1072584     :  0.0
+actor ID=1072668     :  0.0
+actor ID=1158040     :  0.0
+actor ID=1167048     :  0.0
+actor ID=1170039     :  0.0
+actor ID=1190192     :  0.0
+actor ID=1198397     :  0.0
+actor ID=1206315     :  0.0
+actor ID=1216582     :  0.0
+actor ID=1229838     :  0.0
+actor ID=1253701     :  0.0
+actor ID=1260631     :  0.0
+actor ID=1273531     :  0.0
+actor ID=1290791     :  0.0
+actor ID=1292135     :  0.0
+actor ID=1297720     :  0.0
+actor ID=1309137     :  0.0
+actor ID=1323070     :  0.0
+actor ID=1335137     :  0.0
+actor ID=133985      :  0.0
+actor ID=1342347     :  0.0
+actor ID=1348041     :  0.0
+actor ID=1351913     :  0.0
+actor ID=1374719     :  0.0
+actor ID=1395789     :  0.0
+actor ID=1402001     :  0.0
+actor ID=1405458     :  0.0
+actor ID=1463669     :  0.0
+actor ID=1480185     :  0.0
+actor ID=1483828     :  0.0
+actor ID=1542279     :  0.0
+actor ID=1584763     :  0.0
+actor ID=1606367     :  0.0
+actor ID=1637467     :  0.0
+actor ID=1658441     :  0.0
+actor ID=1671991     :  0.0
+actor ID=1681146     :  0.0
+actor ID=1698048     :  0.0
+actor ID=172359      :  0.0
+actor ID=1726318     :  0.0
+actor ID=1739265     :  0.0
+actor ID=1747719     :  0.0
+actor ID=1760831     :  0.0
+actor ID=1761219     :  0.0
+actor ID=1767026     :  0.0
+actor ID=176713      :  0.0
+actor ID=1771318     :  0.0
+actor ID=1781042     :  0.0
+actor ID=17838   :  0.0
+actor ID=1792455     :  0.0
+actor ID=1793283     :  0.0
+actor ID=1808442     :  0.0
+actor ID=1817602     :  0.0
+actor ID=1823127     :  0.0
+actor ID=1839848     :  0.0
+actor ID=1853425     :  0.0
+actor ID=1856129     :  0.0
+actor ID=1860883     :  0.0
+actor ID=1892087     :  0.0
+actor ID=1900518     :  0.0
+actor ID=1907368     :  0.0
+actor ID=1929540     :  0.0
+actor ID=1953875     :  0.0
+actor ID=1978197     :  0.0
+actor ID=1983799     :  0.0
+actor ID=2049627     :  0.0
+actor ID=2055016     :  0.0
+actor ID=2076540     :  0.0
+actor ID=2082212     :  0.0
+actor ID=2083024     :  0.0
+actor ID=2102051     :  0.0
+actor ID=2108815     :  0.0
+actor ID=2125863     :  0.0
+actor ID=2131839     :  0.0
+actor ID=2145993     :  0.0
+actor ID=2149685     :  0.0
+actor ID=2166109     :  0.0
+actor ID=2177227     :  0.0
+actor ID=2197978     :  0.0
+actor ID=225389      :  0.0
+actor ID=225715      :  0.0
+actor ID=2260528     :  0.0
+actor ID=2274023     :  0.0
+actor ID=2275105     :  0.0
+actor ID=2276255     :  0.0
+actor ID=2277581     :  0.0
+actor ID=2284269     :  0.0
+actor ID=2312401     :  0.0
+actor ID=2329949     :  0.0
+actor ID=2338959     :  0.0
+actor ID=2340377     :  0.0
+actor ID=2355195     :  0.0
+actor ID=2369664     :  0.0
+actor ID=238391      :  0.0
+actor ID=2392683     :  0.0
+actor ID=2408311     :  0.0
+actor ID=2411110     :  0.0
+actor ID=2413133     :  0.0
+actor ID=2430898     :  0.0
+actor ID=2433640     :  0.0
+actor ID=2436599     :  0.0
+actor ID=2452267     :  0.0
+actor ID=2454190     :  0.0
+actor ID=2472056     :  0.0
+actor ID=2472635     :  0.0
+actor ID=2476125     :  0.0
+actor ID=2476829     :  0.0
+actor ID=2481470     :  0.0
+actor ID=2495559     :  0.0
+actor ID=2520743     :  0.0
+actor ID=2532241     :  0.0
+actor ID=2558605     :  0.0
+actor ID=2605571     :  0.0
+actor ID=2613454     :  0.0
+actor ID=263611      :  0.0
+actor ID=2647481     :  0.0
+actor ID=2654869     :  0.0
+actor ID=2655416     :  0.0
+actor ID=2665816     :  0.0
+actor ID=2672983     :  0.0
+actor ID=2678332     :  0.0
+actor ID=2681348     :  0.0
+actor ID=2682129     :  0.0
+actor ID=2689164     :  0.0
+actor ID=2706646     :  0.0
+actor ID=2731923     :  0.0
+actor ID=2745228     :  0.0
+actor ID=2746767     :  0.0
+actor ID=2757658     :  0.0
+actor ID=2769988     :  0.0
+actor ID=277151      :  0.0
+actor ID=277808      :  0.0
+actor ID=278679      :  0.0
+actor ID=2805154     :  0.0
+actor ID=2805709     :  0.0
+actor ID=2806255     :  0.0
+actor ID=2816072     :  0.0
+actor ID=2819679     :  0.0
+actor ID=2823711     :  0.0
+actor ID=283459      :  0.0
+actor ID=2867955     :  0.0
+actor ID=2870323     :  0.0
+actor ID=2871653     :  0.0
+actor ID=2875249     :  0.0
+actor ID=2899766     :  0.0
+actor ID=290614      :  0.0
+actor ID=2946264     :  0.0
+actor ID=2961547     :  0.0
+actor ID=2963551     :  0.0
+actor ID=2991079     :  0.0
+actor ID=2997171     :  0.0
+actor ID=3017359     :  0.0
+actor ID=3019879     :  0.0
+actor ID=3076964     :  0.0
+actor ID=3097703     :  0.0
+actor ID=310310      :  0.0
+actor ID=3120951     :  0.0
+actor ID=312142      :  0.0
+actor ID=3121684     :  0.0
+actor ID=313166      :  0.0
+actor ID=316365      :  0.0
+actor ID=3168573     :  0.0
+actor ID=319124      :  0.0
+actor ID=3191522     :  0.0
+actor ID=322458      :  0.0
+actor ID=3249812     :  0.0
+actor ID=3251912     :  0.0
+actor ID=3257358     :  0.0
+actor ID=3292476     :  0.0
+actor ID=3301462     :  0.0
+actor ID=3310162     :  0.0
+actor ID=3339939     :  0.0
+actor ID=3368894     :  0.0
+actor ID=3373136     :  0.0
+actor ID=3373644     :  0.0
+actor ID=3375959     :  0.0
+actor ID=337981      :  0.0
+actor ID=339013      :  0.0
+actor ID=3405985     :  0.0
+actor ID=3413531     :  0.0
+actor ID=3426176     :  0.0
+actor ID=3426287     :  0.0
+actor ID=3431089     :  0.0
+actor ID=3447369     :  0.0
+actor ID=3464199     :  0.0
+actor ID=3471294     :  0.0
+actor ID=350376      :  0.0
+actor ID=3509936     :  0.0
+actor ID=3513128     :  0.0
+actor ID=3520350     :  0.0
+actor ID=353718      :  0.0
+actor ID=353746      :  0.0
+actor ID=3544742     :  0.0
+actor ID=3558986     :  0.0
+actor ID=3568607     :  0.0
+actor ID=3571456     :  0.0
+actor ID=3599993     :  0.0
+actor ID=3618428     :  0.0
+actor ID=3619702     :  0.0
+actor ID=3632088     :  0.0
+actor ID=3648407     :  0.0
+actor ID=3649447     :  0.0
+actor ID=3650577     :  0.0
+actor ID=3704908     :  0.0
+actor ID=3730286     :  0.0
+actor ID=3747431     :  0.0
+actor ID=3756760     :  0.0
+actor ID=3762843     :  0.0
+actor ID=3763705     :  0.0
+actor ID=377600      :  0.0
+actor ID=3781744     :  0.0
+actor ID=3783897     :  0.0
+actor ID=3788413     :  0.0
+actor ID=3805632     :  0.0
+actor ID=3807179     :  0.0
+actor ID=3811626     :  0.0
+actor ID=3813562     :  0.0
+actor ID=3825023     :  0.0
+actor ID=3838861     :  0.0
+actor ID=386263      :  0.0
+actor ID=3890203     :  0.0
+actor ID=3898471     :  0.0
+actor ID=3900269     :  0.0
+actor ID=3907210     :  0.0
+actor ID=3951524     :  0.0
+actor ID=396877      :  0.0
+actor ID=406221      :  0.0
+actor ID=408123      :  0.0
+actor ID=412301      :  0.0
+actor ID=416857      :  0.0
+actor ID=450680      :  0.0
+actor ID=455857      :  0.0
+actor ID=458558      :  0.0
+actor ID=45899   :  0.0
+actor ID=461637      :  0.0
+actor ID=462304      :  0.0
+actor ID=470697      :  0.0
+actor ID=485553      :  0.0
+actor ID=486691      :  0.0
+actor ID=498094      :  0.0
+actor ID=511361      :  0.0
+actor ID=515252      :  0.0
+actor ID=520603      :  0.0
+actor ID=523435      :  0.0
+actor ID=542238      :  0.0
+actor ID=562270      :  0.0
+actor ID=565786      :  0.0
+actor ID=581911      :  0.0
+actor ID=602906      :  0.0
+actor ID=606633      :  0.0
+actor ID=607316      :  0.0
+actor ID=608635      :  0.0
+actor ID=618247      :  0.0
+actor ID=621487      :  0.0
+actor ID=623809      :  0.0
+actor ID=630173      :  0.0
+actor ID=630676      :  0.0
+actor ID=642688      :  0.0
+actor ID=651056      :  0.0
+actor ID=665569      :  0.0
+actor ID=665574      :  0.0
+actor ID=68671   :  0.0
+actor ID=692749      :  0.0
+actor ID=702631      :  0.0
+actor ID=713207      :  0.0
+actor ID=715492      :  0.0
+actor ID=718017      :  0.0
+actor ID=719241      :  0.0
+actor ID=720541      :  0.0
+actor ID=721841      :  0.0
+actor ID=724992      :  0.0
+actor ID=733545      :  0.0
+actor ID=749056      :  0.0
+actor ID=755909      :  0.0
+actor ID=755967      :  0.0
+actor ID=782027      :  0.0
+actor ID=810424      :  0.0
+actor ID=830152      :  0.0
+actor ID=831209      :  0.0
+actor ID=837734      :  0.0
+actor ID=861346      :  0.0
+actor ID=872868      :  0.0
+actor ID=878356      :  0.0
+actor ID=901175      :  0.0
+actor ID=925935      :  0.0
+actor ID=938435      :  0.0
+actor ID=951580      :  0.0
+actor ID=952910      :  0.0
+actor ID=96585   :  0.0
+actor ID=973296      :  0.0
+actor ID=987727      :  0.0
+actor ID=99457   :  0.0
+actor ID=3134858     :  -5.76429287669e-18
+actor ID=499028      :  -1.15285857534e-17
+actor ID=3425734     :  -2.30571715068e-17
+actor ID=128645      :  -3.60268304793e-17
+actor ID=61523   :  -0.101493490795
+actor ID=2494359     :  -0.128065561922
+actor ID=3116114     :  -0.134720785547
+actor ID=2427896     :  -0.170754082563
+actor ID=2557253     :  -0.256131123844
+actor ID=591435      :  -0.269441571094
+actor ID=1329956     :  -0.887575193192
+
+Latent Semantic 2
+actor ID=1014988     :  0.0
+actor ID=1021526     :  0.0
+actor ID=1049512     :  0.0
+actor ID=1061413     :  0.0
+actor ID=1069742     :  0.0
+actor ID=1072584     :  0.0
+actor ID=1072668     :  0.0
+actor ID=1158040     :  0.0
+actor ID=1167048     :  0.0
+actor ID=1170039     :  0.0
+actor ID=1190192     :  0.0
+actor ID=1198397     :  0.0
+actor ID=1206315     :  0.0
+actor ID=1216582     :  0.0
+actor ID=1229838     :  0.0
+actor ID=1253701     :  0.0
+actor ID=1260631     :  0.0
+actor ID=1273531     :  0.0
+actor ID=128645      :  0.0
+actor ID=1290791     :  0.0
+actor ID=1292135     :  0.0
+actor ID=1297720     :  0.0
+actor ID=1309137     :  0.0
+actor ID=1323070     :  0.0
+actor ID=1329956     :  0.0
+actor ID=1335137     :  0.0
+actor ID=133985      :  0.0
+actor ID=1342347     :  0.0
+actor ID=1348041     :  0.0
+actor ID=1351913     :  0.0
+actor ID=1374719     :  0.0
+actor ID=1395789     :  0.0
+actor ID=1402001     :  0.0
+actor ID=1405458     :  0.0
+actor ID=1463669     :  0.0
+actor ID=1480185     :  0.0
+actor ID=1483828     :  0.0
+actor ID=1542279     :  0.0
+actor ID=1584763     :  0.0
+actor ID=1606367     :  0.0
+actor ID=1637467     :  0.0
+actor ID=1658441     :  0.0
+actor ID=1671991     :  0.0
+actor ID=1681146     :  0.0
+actor ID=1698048     :  0.0
+actor ID=172359      :  0.0
+actor ID=1726318     :  0.0
+actor ID=1739265     :  0.0
+actor ID=1747719     :  0.0
+actor ID=1760831     :  0.0
+actor ID=1761219     :  0.0
+actor ID=1767026     :  0.0
+actor ID=176713      :  0.0
+actor ID=1771318     :  0.0
+actor ID=1781042     :  0.0
+actor ID=17838   :  0.0
+actor ID=1792455     :  0.0
+actor ID=1808442     :  0.0
+actor ID=1817602     :  0.0
+actor ID=1823127     :  0.0
+actor ID=1839848     :  0.0
+actor ID=1853425     :  0.0
+actor ID=1856129     :  0.0
+actor ID=1860883     :  0.0
+actor ID=1892087     :  0.0
+actor ID=1900518     :  0.0
+actor ID=1907368     :  0.0
+actor ID=1953875     :  0.0
+actor ID=1978197     :  0.0
+actor ID=1983799     :  0.0
+actor ID=2049627     :  0.0
+actor ID=2055016     :  0.0
+actor ID=2076540     :  0.0
+actor ID=2082212     :  0.0
+actor ID=2083024     :  0.0
+actor ID=2102051     :  0.0
+actor ID=2108815     :  0.0
+actor ID=2125863     :  0.0
+actor ID=2131839     :  0.0
+actor ID=2145993     :  0.0
+actor ID=2149685     :  0.0
+actor ID=2166109     :  0.0
+actor ID=2177227     :  0.0
+actor ID=2197978     :  0.0
+actor ID=225389      :  0.0
+actor ID=225715      :  0.0
+actor ID=2260528     :  0.0
+actor ID=2274023     :  0.0
+actor ID=2275105     :  0.0
+actor ID=2276255     :  0.0
+actor ID=2277581     :  0.0
+actor ID=2284269     :  0.0
+actor ID=2312401     :  0.0
+actor ID=2329949     :  0.0
+actor ID=2338959     :  0.0
+actor ID=2340377     :  0.0
+actor ID=2355195     :  0.0
+actor ID=2369664     :  0.0
+actor ID=238391      :  0.0
+actor ID=2392683     :  0.0
+actor ID=2408311     :  0.0
+actor ID=2411110     :  0.0
+actor ID=2413133     :  0.0
+actor ID=2427896     :  0.0
+actor ID=2430898     :  0.0
+actor ID=2433640     :  0.0
+actor ID=2436599     :  0.0
+actor ID=2452267     :  0.0
+actor ID=2454190     :  0.0
+actor ID=2472056     :  0.0
+actor ID=2472635     :  0.0
+actor ID=2476125     :  0.0
+actor ID=2476829     :  0.0
+actor ID=2481470     :  0.0
+actor ID=2494359     :  0.0
+actor ID=2495559     :  0.0
+actor ID=2520743     :  0.0
+actor ID=2532241     :  0.0
+actor ID=2557253     :  0.0
+actor ID=2558605     :  0.0
+actor ID=2605571     :  0.0
+actor ID=2613454     :  0.0
+actor ID=263611      :  0.0
+actor ID=2647481     :  0.0
+actor ID=2654869     :  0.0
+actor ID=2655416     :  0.0
+actor ID=2665816     :  0.0
+actor ID=2672983     :  0.0
+actor ID=2678332     :  0.0
+actor ID=2681348     :  0.0
+actor ID=2682129     :  0.0
+actor ID=2689164     :  0.0
+actor ID=2706646     :  0.0
+actor ID=2731923     :  0.0
+actor ID=2745228     :  0.0
+actor ID=2746767     :  0.0
+actor ID=2757658     :  0.0
+actor ID=2769988     :  0.0
+actor ID=277151      :  0.0
+actor ID=277808      :  0.0
+actor ID=278679      :  0.0
+actor ID=2805154     :  0.0
+actor ID=2806255     :  0.0
+actor ID=2816072     :  0.0
+actor ID=2819679     :  0.0
+actor ID=2823711     :  0.0
+actor ID=283459      :  0.0
+actor ID=2867955     :  0.0
+actor ID=2870323     :  0.0
+actor ID=2875249     :  0.0
+actor ID=2899766     :  0.0
+actor ID=290614      :  0.0
+actor ID=2946264     :  0.0
+actor ID=2963551     :  0.0
+actor ID=2991079     :  0.0
+actor ID=2997171     :  0.0
+actor ID=3017359     :  0.0
+actor ID=3019879     :  0.0
+actor ID=3076964     :  0.0
+actor ID=3097703     :  0.0
+actor ID=310310      :  0.0
+actor ID=3116114     :  0.0
+actor ID=3120951     :  0.0
+actor ID=312142      :  0.0
+actor ID=3121684     :  0.0
+actor ID=313166      :  0.0
+actor ID=3134858     :  0.0
+actor ID=316365      :  0.0
+actor ID=3168573     :  0.0
+actor ID=319124      :  0.0
+actor ID=3191522     :  0.0
+actor ID=322458      :  0.0
+actor ID=3249812     :  0.0
+actor ID=3251912     :  0.0
+actor ID=3257358     :  0.0
+actor ID=3301462     :  0.0
+actor ID=3310162     :  0.0
+actor ID=3339939     :  0.0
+actor ID=3368894     :  0.0
+actor ID=3373136     :  0.0
+actor ID=3373644     :  0.0
+actor ID=3375959     :  0.0
+actor ID=337981      :  0.0
+actor ID=339013      :  0.0
+actor ID=3405985     :  0.0
+actor ID=3413531     :  0.0
+actor ID=3425734     :  0.0
+actor ID=3426176     :  0.0
+actor ID=3426287     :  0.0
+actor ID=3431089     :  0.0
+actor ID=3447369     :  0.0
+actor ID=3464199     :  0.0
+actor ID=3471294     :  0.0
+actor ID=350376      :  0.0
+actor ID=3509936     :  0.0
+actor ID=3513128     :  0.0
+actor ID=3520350     :  0.0
+actor ID=353718      :  0.0
+actor ID=353746      :  0.0
+actor ID=3544742     :  0.0
+actor ID=3558986     :  0.0
+actor ID=3568607     :  0.0
+actor ID=3571456     :  0.0
+actor ID=3599993     :  0.0
+actor ID=3618428     :  0.0
+actor ID=3619702     :  0.0
+actor ID=3632088     :  0.0
+actor ID=3648407     :  0.0
+actor ID=3649447     :  0.0
+actor ID=3650577     :  0.0
+actor ID=3704908     :  0.0
+actor ID=3730286     :  0.0
+actor ID=3747431     :  0.0
+actor ID=3756760     :  0.0
+actor ID=3762843     :  0.0
+actor ID=3763705     :  0.0
+actor ID=377600      :  0.0
+actor ID=3781744     :  0.0
+actor ID=3783897     :  0.0
+actor ID=3788413     :  0.0
+actor ID=3805632     :  0.0
+actor ID=3807179     :  0.0
+actor ID=3811626     :  0.0
+actor ID=3813562     :  0.0
+actor ID=3825023     :  0.0
+actor ID=3838861     :  0.0
+actor ID=386263      :  0.0
+actor ID=3890203     :  0.0
+actor ID=3898471     :  0.0
+actor ID=3900269     :  0.0
+actor ID=3907210     :  0.0
+actor ID=3951524     :  0.0
+actor ID=396877      :  0.0
+actor ID=406221      :  0.0
+actor ID=408123      :  0.0
+actor ID=412301      :  0.0
+actor ID=416857      :  0.0
+actor ID=450680      :  0.0
+actor ID=455857      :  0.0
+actor ID=45899   :  0.0
+actor ID=461637      :  0.0
+actor ID=462304      :  0.0
+actor ID=470697      :  0.0
+actor ID=485553      :  0.0
+actor ID=486691      :  0.0
+actor ID=498094      :  0.0
+actor ID=499028      :  0.0
+actor ID=511361      :  0.0
+actor ID=515252      :  0.0
+actor ID=520603      :  0.0
+actor ID=523435      :  0.0
+actor ID=542238      :  0.0
+actor ID=562270      :  0.0
+actor ID=565786      :  0.0
+actor ID=581911      :  0.0
+actor ID=591435      :  0.0
+actor ID=602906      :  0.0
+actor ID=606633      :  0.0
+actor ID=607316      :  0.0
+actor ID=608635      :  0.0
+actor ID=61523   :  0.0
+actor ID=618247      :  0.0
+actor ID=621487      :  0.0
+actor ID=623809      :  0.0
+actor ID=630173      :  0.0
+actor ID=630676      :  0.0
+actor ID=642688      :  0.0
+actor ID=651056      :  0.0
+actor ID=665569      :  0.0
+actor ID=665574      :  0.0
+actor ID=68671   :  0.0
+actor ID=692749      :  0.0
+actor ID=702631      :  0.0
+actor ID=713207      :  0.0
+actor ID=715492      :  0.0
+actor ID=718017      :  0.0
+actor ID=719241      :  0.0
+actor ID=720541      :  0.0
+actor ID=721841      :  0.0
+actor ID=724992      :  0.0
+actor ID=733545      :  0.0
+actor ID=749056      :  0.0
+actor ID=755909      :  0.0
+actor ID=755967      :  0.0
+actor ID=782027      :  0.0
+actor ID=810424      :  0.0
+actor ID=830152      :  0.0
+actor ID=831209      :  0.0
+actor ID=837734      :  0.0
+actor ID=861346      :  0.0
+actor ID=872868      :  0.0
+actor ID=878356      :  0.0
+actor ID=901175      :  0.0
+actor ID=925935      :  0.0
+actor ID=938435      :  0.0
+actor ID=951580      :  0.0
+actor ID=952910      :  0.0
+actor ID=96585   :  0.0
+actor ID=973296      :  0.0
+actor ID=987727      :  0.0
+actor ID=99457   :  0.0
+actor ID=1060304     :  -1.51751605126e-17
+actor ID=1929540     :  -0.110879860075
+actor ID=2961547     :  -0.147839813433
+actor ID=2871653     :  -0.164159731666
+actor ID=2805709     :  -0.18725138154
+actor ID=3292476     :  -0.218879642221
+actor ID=1793283     :  -0.651731977898
+actor ID=458558      :  -0.656638926664
+
+Latent Semantic 3
+actor ID=458558      :  8.47064801457e-17
+actor ID=2871653     :  2.11766200364e-17
+actor ID=2805709     :  1.64883952529e-18
+actor ID=1335137     :  9.43547716552e-19
+actor ID=1929540     :  5.98739913348e-20
+actor ID=1014988     :  0.0
+actor ID=1021526     :  0.0
+actor ID=1049512     :  0.0
+actor ID=1061413     :  0.0
+actor ID=1069742     :  0.0
+actor ID=1072584     :  0.0
+actor ID=1072668     :  0.0
+actor ID=1158040     :  0.0
+actor ID=1167048     :  0.0
+actor ID=1170039     :  0.0
+actor ID=1190192     :  0.0
+actor ID=1206315     :  0.0
+actor ID=1216582     :  0.0
+actor ID=1229838     :  0.0
+actor ID=1253701     :  0.0
+actor ID=1260631     :  0.0
+actor ID=1273531     :  0.0
+actor ID=128645      :  0.0
+actor ID=1290791     :  0.0
+actor ID=1292135     :  0.0
+actor ID=1297720     :  0.0
+actor ID=1323070     :  0.0
+actor ID=1329956     :  0.0
+actor ID=133985      :  0.0
+actor ID=1342347     :  0.0
+actor ID=1348041     :  0.0
+actor ID=1351913     :  0.0
+actor ID=1374719     :  0.0
+actor ID=1395789     :  0.0
+actor ID=1402001     :  0.0
+actor ID=1405458     :  0.0
+actor ID=1463669     :  0.0
+actor ID=1480185     :  0.0
+actor ID=1483828     :  0.0
+actor ID=1542279     :  0.0
+actor ID=1584763     :  0.0
+actor ID=1606367     :  0.0
+actor ID=1637467     :  0.0
+actor ID=1658441     :  0.0
+actor ID=1671991     :  0.0
+actor ID=1681146     :  0.0
+actor ID=1698048     :  0.0
+actor ID=172359      :  0.0
+actor ID=1726318     :  0.0
+actor ID=1739265     :  0.0
+actor ID=1747719     :  0.0
+actor ID=1760831     :  0.0
+actor ID=1761219     :  0.0
+actor ID=1767026     :  0.0
+actor ID=176713      :  0.0
+actor ID=1771318     :  0.0
+actor ID=1781042     :  0.0
+actor ID=17838   :  0.0
+actor ID=1792455     :  0.0
+actor ID=1808442     :  0.0
+actor ID=1817602     :  0.0
+actor ID=1823127     :  0.0
+actor ID=1839848     :  0.0
+actor ID=1853425     :  0.0
+actor ID=1856129     :  0.0
+actor ID=1860883     :  0.0
+actor ID=1892087     :  0.0
+actor ID=1900518     :  0.0
+actor ID=1907368     :  0.0
+actor ID=1953875     :  0.0
+actor ID=1978197     :  0.0
+actor ID=1983799     :  0.0
+actor ID=2049627     :  0.0
+actor ID=2055016     :  0.0
+actor ID=2076540     :  0.0
+actor ID=2082212     :  0.0
+actor ID=2083024     :  0.0
+actor ID=2102051     :  0.0
+actor ID=2108815     :  0.0
+actor ID=2125863     :  0.0
+actor ID=2131839     :  0.0
+actor ID=2145993     :  0.0
+actor ID=2149685     :  0.0
+actor ID=2166109     :  0.0
+actor ID=2177227     :  0.0
+actor ID=2197978     :  0.0
+actor ID=225389      :  0.0
+actor ID=225715      :  0.0
+actor ID=2260528     :  0.0
+actor ID=2274023     :  0.0
+actor ID=2275105     :  0.0
+actor ID=2276255     :  0.0
+actor ID=2277581     :  0.0
+actor ID=2284269     :  0.0
+actor ID=2312401     :  0.0
+actor ID=2329949     :  0.0
+actor ID=2338959     :  0.0
+actor ID=2340377     :  0.0
+actor ID=2355195     :  0.0
+actor ID=2369664     :  0.0
+actor ID=238391      :  0.0
+actor ID=2392683     :  0.0
+actor ID=2408311     :  0.0
+actor ID=2411110     :  0.0
+actor ID=2413133     :  0.0
+actor ID=2427896     :  0.0
+actor ID=2430898     :  0.0
+actor ID=2433640     :  0.0
+actor ID=2436599     :  0.0
+actor ID=2452267     :  0.0
+actor ID=2454190     :  0.0
+actor ID=2472056     :  0.0
+actor ID=2472635     :  0.0
+actor ID=2476125     :  0.0
+actor ID=2476829     :  0.0
+actor ID=2481470     :  0.0
+actor ID=2494359     :  0.0
+actor ID=2495559     :  0.0
+actor ID=2520743     :  0.0
+actor ID=2532241     :  0.0
+actor ID=2557253     :  0.0
+actor ID=2558605     :  0.0
+actor ID=2605571     :  0.0
+actor ID=2613454     :  0.0
+actor ID=263611      :  0.0
+actor ID=2647481     :  0.0
+actor ID=2654869     :  0.0
+actor ID=2655416     :  0.0
+actor ID=2665816     :  0.0
+actor ID=2672983     :  0.0
+actor ID=2678332     :  0.0
+actor ID=2681348     :  0.0
+actor ID=2682129     :  0.0
+actor ID=2689164     :  0.0
+actor ID=2706646     :  0.0
+actor ID=2731923     :  0.0
+actor ID=2745228     :  0.0
+actor ID=2746767     :  0.0
+actor ID=2757658     :  0.0
+actor ID=2769988     :  0.0
+actor ID=277808      :  0.0
+actor ID=278679      :  0.0
+actor ID=2805154     :  0.0
+actor ID=2806255     :  0.0
+actor ID=2816072     :  0.0
+actor ID=2819679     :  0.0
+actor ID=2823711     :  0.0
+actor ID=2867955     :  0.0
+actor ID=2870323     :  0.0
+actor ID=2875249     :  0.0
+actor ID=2899766     :  0.0
+actor ID=290614      :  0.0
+actor ID=2946264     :  0.0
+actor ID=2963551     :  0.0
+actor ID=2991079     :  0.0
+actor ID=2997171     :  0.0
+actor ID=3017359     :  0.0
+actor ID=3019879     :  0.0
+actor ID=3076964     :  0.0
+actor ID=3097703     :  0.0
+actor ID=310310      :  0.0
+actor ID=3116114     :  0.0
+actor ID=3120951     :  0.0
+actor ID=312142      :  0.0
+actor ID=3121684     :  0.0
+actor ID=3134858     :  0.0
+actor ID=316365      :  0.0
+actor ID=319124      :  0.0
+actor ID=3191522     :  0.0
+actor ID=322458      :  0.0
+actor ID=3249812     :  0.0
+actor ID=3251912     :  0.0
+actor ID=3257358     :  0.0
+actor ID=3301462     :  0.0
+actor ID=3310162     :  0.0
+actor ID=3339939     :  0.0
+actor ID=3368894     :  0.0
+actor ID=3373136     :  0.0
+actor ID=3373644     :  0.0
+actor ID=3375959     :  0.0
+actor ID=337981      :  0.0
+actor ID=339013      :  0.0
+actor ID=3405985     :  0.0
+actor ID=3413531     :  0.0
+actor ID=3425734     :  0.0
+actor ID=3426176     :  0.0
+actor ID=3426287     :  0.0
+actor ID=3431089     :  0.0
+actor ID=3447369     :  0.0
+actor ID=3464199     :  0.0
+actor ID=3471294     :  0.0
+actor ID=350376      :  0.0
+actor ID=3509936     :  0.0
+actor ID=3513128     :  0.0
+actor ID=3520350     :  0.0
+actor ID=353718      :  0.0
+actor ID=353746      :  0.0
+actor ID=3544742     :  0.0
+actor ID=3558986     :  0.0
+actor ID=3568607     :  0.0
+actor ID=3571456     :  0.0
+actor ID=3599993     :  0.0
+actor ID=3618428     :  0.0
+actor ID=3619702     :  0.0
+actor ID=3648407     :  0.0
+actor ID=3649447     :  0.0
+actor ID=3650577     :  0.0
+actor ID=3704908     :  0.0
+actor ID=3730286     :  0.0
+actor ID=3747431     :  0.0
+actor ID=3756760     :  0.0
+actor ID=3762843     :  0.0
+actor ID=3763705     :  0.0
+actor ID=377600      :  0.0
+actor ID=3781744     :  0.0
+actor ID=3783897     :  0.0
+actor ID=3788413     :  0.0
+actor ID=3805632     :  0.0
+actor ID=3807179     :  0.0
+actor ID=3811626     :  0.0
+actor ID=3813562     :  0.0
+actor ID=3825023     :  0.0
+actor ID=3838861     :  0.0
+actor ID=386263      :  0.0
+actor ID=3890203     :  0.0
+actor ID=3898471     :  0.0
+actor ID=3900269     :  0.0
+actor ID=3907210     :  0.0
+actor ID=3951524     :  0.0
+actor ID=396877      :  0.0
+actor ID=408123      :  0.0
+actor ID=412301      :  0.0
+actor ID=416857      :  0.0
+actor ID=450680      :  0.0
+actor ID=455857      :  0.0
+actor ID=45899   :  0.0
+actor ID=461637      :  0.0
+actor ID=462304      :  0.0
+actor ID=470697      :  0.0
+actor ID=485553      :  0.0
+actor ID=486691      :  0.0
+actor ID=498094      :  0.0
+actor ID=499028      :  0.0
+actor ID=511361      :  0.0
+actor ID=515252      :  0.0
+actor ID=520603      :  0.0
+actor ID=523435      :  0.0
+actor ID=562270      :  0.0
+actor ID=565786      :  0.0
+actor ID=581911      :  0.0
+actor ID=591435      :  0.0
+actor ID=602906      :  0.0
+actor ID=606633      :  0.0
+actor ID=607316      :  0.0
+actor ID=608635      :  0.0
+actor ID=61523   :  0.0
+actor ID=618247      :  0.0
+actor ID=621487      :  0.0
+actor ID=623809      :  0.0
+actor ID=630173      :  0.0
+actor ID=630676      :  0.0
+actor ID=642688      :  0.0
+actor ID=651056      :  0.0
+actor ID=665569      :  0.0
+actor ID=665574      :  0.0
+actor ID=692749      :  0.0
+actor ID=702631      :  0.0
+actor ID=713207      :  0.0
+actor ID=715492      :  0.0
+actor ID=718017      :  0.0
+actor ID=719241      :  0.0
+actor ID=720541      :  0.0
+actor ID=721841      :  0.0
+actor ID=724992      :  0.0
+actor ID=733545      :  0.0
+actor ID=749056      :  0.0
+actor ID=755909      :  0.0
+actor ID=755967      :  0.0
+actor ID=782027      :  0.0
+actor ID=810424      :  0.0
+actor ID=830152      :  0.0
+actor ID=831209      :  0.0
+actor ID=837734      :  0.0
+actor ID=872868      :  0.0
+actor ID=878356      :  0.0
+actor ID=901175      :  0.0
+actor ID=925935      :  0.0
+actor ID=938435      :  0.0
+actor ID=951580      :  0.0
+actor ID=952910      :  0.0
+actor ID=96585   :  0.0
+actor ID=973296      :  0.0
+actor ID=987727      :  0.0
+actor ID=99457   :  0.0
+actor ID=1793283     :  -2.5959345129e-19
+actor ID=1060304     :  -1.21094797775e-18
+actor ID=2961547     :  -1.47570420294e-18
+actor ID=3292476     :  -5.70155466694e-18
+actor ID=1309137     :  -2.2298096778e-17
+actor ID=68671   :  -0.0889657539884
+actor ID=283459      :  -0.0990967163771
+actor ID=406221      :  -0.118621005318
+actor ID=861346      :  -0.132128955169
+actor ID=313166      :  -0.198193432754
+actor ID=3632088     :  -0.260302734021
+actor ID=277151      :  -0.280394705457
+actor ID=3168573     :  -0.355863015954
+actor ID=542238      :  -0.508239709847
+actor ID=1198397     :  -0.616547242278
+
+Latent Semantic 4
+actor ID=1216582     :  5.18353668132e-18
+actor ID=1014988     :  0.0
+actor ID=1021526     :  0.0
+actor ID=1049512     :  0.0
+actor ID=1060304     :  0.0
+actor ID=1061413     :  0.0
+actor ID=1069742     :  0.0
+actor ID=1072584     :  0.0
+actor ID=1072668     :  0.0
+actor ID=1158040     :  0.0
+actor ID=1167048     :  0.0
+actor ID=1170039     :  0.0
+actor ID=1190192     :  0.0
+actor ID=1198397     :  0.0
+actor ID=1206315     :  0.0
+actor ID=1229838     :  0.0
+actor ID=1260631     :  0.0
+actor ID=1273531     :  0.0
+actor ID=128645      :  0.0
+actor ID=1290791     :  0.0
+actor ID=1292135     :  0.0
+actor ID=1297720     :  0.0
+actor ID=1309137     :  0.0
+actor ID=1323070     :  0.0
+actor ID=1329956     :  0.0
+actor ID=1335137     :  0.0
+actor ID=1342347     :  0.0
+actor ID=1348041     :  0.0
+actor ID=1351913     :  0.0
+actor ID=1374719     :  0.0
+actor ID=1395789     :  0.0
+actor ID=1402001     :  0.0
+actor ID=1405458     :  0.0
+actor ID=1463669     :  0.0
+actor ID=1480185     :  0.0
+actor ID=1483828     :  0.0
+actor ID=1542279     :  0.0
+actor ID=1584763     :  0.0
+actor ID=1606367     :  0.0
+actor ID=1637467     :  0.0
+actor ID=1658441     :  0.0
+actor ID=1671991     :  0.0
+actor ID=1681146     :  0.0
+actor ID=1698048     :  0.0
+actor ID=172359      :  0.0
+actor ID=1726318     :  0.0
+actor ID=1739265     :  0.0
+actor ID=1747719     :  0.0
+actor ID=1760831     :  0.0
+actor ID=1761219     :  0.0
+actor ID=1767026     :  0.0
+actor ID=1771318     :  0.0
+actor ID=1781042     :  0.0
+actor ID=17838   :  0.0
+actor ID=1792455     :  0.0
+actor ID=1793283     :  0.0
+actor ID=1808442     :  0.0
+actor ID=1817602     :  0.0
+actor ID=1823127     :  0.0
+actor ID=1839848     :  0.0
+actor ID=1853425     :  0.0
+actor ID=1856129     :  0.0
+actor ID=1860883     :  0.0
+actor ID=1892087     :  0.0
+actor ID=1900518     :  0.0
+actor ID=1907368     :  0.0
+actor ID=1929540     :  0.0
+actor ID=1953875     :  0.0
+actor ID=1978197     :  0.0
+actor ID=1983799     :  0.0
+actor ID=2049627     :  0.0
+actor ID=2055016     :  0.0
+actor ID=2076540     :  0.0
+actor ID=2082212     :  0.0
+actor ID=2083024     :  0.0
+actor ID=2102051     :  0.0
+actor ID=2108815     :  0.0
+actor ID=2125863     :  0.0
+actor ID=2131839     :  0.0
+actor ID=2145993     :  0.0
+actor ID=2149685     :  0.0
+actor ID=2166109     :  0.0
+actor ID=2177227     :  0.0
+actor ID=2197978     :  0.0
+actor ID=225389      :  0.0
+actor ID=225715      :  0.0
+actor ID=2260528     :  0.0
+actor ID=2274023     :  0.0
+actor ID=2275105     :  0.0
+actor ID=2276255     :  0.0
+actor ID=2277581     :  0.0
+actor ID=2284269     :  0.0
+actor ID=2312401     :  0.0
+actor ID=2329949     :  0.0
+actor ID=2338959     :  0.0
+actor ID=2340377     :  0.0
+actor ID=2355195     :  0.0
+actor ID=2369664     :  0.0
+actor ID=238391      :  0.0
+actor ID=2392683     :  0.0
+actor ID=2408311     :  0.0
+actor ID=2411110     :  0.0
+actor ID=2413133     :  0.0
+actor ID=2427896     :  0.0
+actor ID=2430898     :  0.0
+actor ID=2433640     :  0.0
+actor ID=2436599     :  0.0
+actor ID=2452267     :  0.0
+actor ID=2454190     :  0.0
+actor ID=2472056     :  0.0
+actor ID=2472635     :  0.0
+actor ID=2476125     :  0.0
+actor ID=2476829     :  0.0
+actor ID=2481470     :  0.0
+actor ID=2494359     :  0.0
+actor ID=2495559     :  0.0
+actor ID=2520743     :  0.0
+actor ID=2532241     :  0.0
+actor ID=2557253     :  0.0
+actor ID=2558605     :  0.0
+actor ID=2605571     :  0.0
+actor ID=2613454     :  0.0
+actor ID=263611      :  0.0
+actor ID=2647481     :  0.0
+actor ID=2655416     :  0.0
+actor ID=2665816     :  0.0
+actor ID=2681348     :  0.0
+actor ID=2682129     :  0.0
+actor ID=2689164     :  0.0
+actor ID=2706646     :  0.0
+actor ID=2731923     :  0.0
+actor ID=2745228     :  0.0
+actor ID=2746767     :  0.0
+actor ID=2769988     :  0.0
+actor ID=277151      :  0.0
+actor ID=277808      :  0.0
+actor ID=278679      :  0.0
+actor ID=2805154     :  0.0
+actor ID=2805709     :  0.0
+actor ID=2806255     :  0.0
+actor ID=2816072     :  0.0
+actor ID=2819679     :  0.0
+actor ID=2823711     :  0.0
+actor ID=283459      :  0.0
+actor ID=2867955     :  0.0
+actor ID=2870323     :  0.0
+actor ID=2871653     :  0.0
+actor ID=2875249     :  0.0
+actor ID=2899766     :  0.0
+actor ID=290614      :  0.0
+actor ID=2946264     :  0.0
+actor ID=2961547     :  0.0
+actor ID=2963551     :  0.0
+actor ID=2991079     :  0.0
+actor ID=2997171     :  0.0
+actor ID=3017359     :  0.0
+actor ID=3019879     :  0.0
+actor ID=3076964     :  0.0
+actor ID=3097703     :  0.0
+actor ID=3116114     :  0.0
+actor ID=3120951     :  0.0
+actor ID=312142      :  0.0
+actor ID=3121684     :  0.0
+actor ID=313166      :  0.0
+actor ID=3134858     :  0.0
+actor ID=316365      :  0.0
+actor ID=3168573     :  0.0
+actor ID=319124      :  0.0
+actor ID=3191522     :  0.0
+actor ID=322458      :  0.0
+actor ID=3249812     :  0.0
+actor ID=3257358     :  0.0
+actor ID=3292476     :  0.0
+actor ID=3301462     :  0.0
+actor ID=3310162     :  0.0
+actor ID=3339939     :  0.0
+actor ID=3368894     :  0.0
+actor ID=3373136     :  0.0
+actor ID=3373644     :  0.0
+actor ID=3375959     :  0.0
+actor ID=337981      :  0.0
+actor ID=339013      :  0.0
+actor ID=3405985     :  0.0
+actor ID=3413531     :  0.0
+actor ID=3425734     :  0.0
+actor ID=3426176     :  0.0
+actor ID=3426287     :  0.0
+actor ID=3431089     :  0.0
+actor ID=3447369     :  0.0
+actor ID=3464199     :  0.0
+actor ID=3471294     :  0.0
+actor ID=350376      :  0.0
+actor ID=3509936     :  0.0
+actor ID=3513128     :  0.0
+actor ID=3520350     :  0.0
+actor ID=353718      :  0.0
+actor ID=353746      :  0.0
+actor ID=3544742     :  0.0
+actor ID=3558986     :  0.0
+actor ID=3568607     :  0.0
+actor ID=3571456     :  0.0
+actor ID=3599993     :  0.0
+actor ID=3618428     :  0.0
+actor ID=3619702     :  0.0
+actor ID=3632088     :  0.0
+actor ID=3648407     :  0.0
+actor ID=3649447     :  0.0
+actor ID=3704908     :  0.0
+actor ID=3730286     :  0.0
+actor ID=3747431     :  0.0
+actor ID=3756760     :  0.0
+actor ID=3762843     :  0.0
+actor ID=3763705     :  0.0
+actor ID=377600      :  0.0
+actor ID=3781744     :  0.0
+actor ID=3783897     :  0.0
+actor ID=3788413     :  0.0
+actor ID=3805632     :  0.0
+actor ID=3807179     :  0.0
+actor ID=3813562     :  0.0
+actor ID=3825023     :  0.0
+actor ID=3838861     :  0.0
+actor ID=386263      :  0.0
+actor ID=3890203     :  0.0
+actor ID=3898471     :  0.0
+actor ID=3900269     :  0.0
+actor ID=3907210     :  0.0
+actor ID=3951524     :  0.0
+actor ID=396877      :  0.0
+actor ID=406221      :  0.0
+actor ID=408123      :  0.0
+actor ID=416857      :  0.0
+actor ID=450680      :  0.0
+actor ID=455857      :  0.0
+actor ID=458558      :  0.0
+actor ID=45899   :  0.0
+actor ID=461637      :  0.0
+actor ID=462304      :  0.0
+actor ID=470697      :  0.0
+actor ID=485553      :  0.0
+actor ID=498094      :  0.0
+actor ID=499028      :  0.0
+actor ID=511361      :  0.0
+actor ID=515252      :  0.0
+actor ID=520603      :  0.0
+actor ID=523435      :  0.0
+actor ID=542238      :  0.0
+actor ID=562270      :  0.0
+actor ID=565786      :  0.0
+actor ID=581911      :  0.0
+actor ID=591435      :  0.0
+actor ID=602906      :  0.0
+actor ID=606633      :  0.0
+actor ID=607316      :  0.0
+actor ID=608635      :  0.0
+actor ID=61523   :  0.0
+actor ID=618247      :  0.0
+actor ID=621487      :  0.0
+actor ID=623809      :  0.0
+actor ID=630173      :  0.0
+actor ID=630676      :  0.0
+actor ID=642688      :  0.0
+actor ID=651056      :  0.0
+actor ID=665569      :  0.0
+actor ID=665574      :  0.0
+actor ID=68671   :  0.0
+actor ID=692749      :  0.0
+actor ID=702631      :  0.0
+actor ID=713207      :  0.0
+actor ID=715492      :  0.0
+actor ID=718017      :  0.0
+actor ID=719241      :  0.0
+actor ID=720541      :  0.0
+actor ID=721841      :  0.0
+actor ID=733545      :  0.0
+actor ID=749056      :  0.0
+actor ID=755909      :  0.0
+actor ID=755967      :  0.0
+actor ID=782027      :  0.0
+actor ID=810424      :  0.0
+actor ID=830152      :  0.0
+actor ID=831209      :  0.0
+actor ID=837734      :  0.0
+actor ID=861346      :  0.0
+actor ID=872868      :  0.0
+actor ID=878356      :  0.0
+actor ID=901175      :  0.0
+actor ID=938435      :  0.0
+actor ID=951580      :  0.0
+actor ID=952910      :  0.0
+actor ID=96585   :  0.0
+actor ID=973296      :  0.0
+actor ID=987727      :  0.0
+actor ID=99457   :  0.0
+actor ID=1253701     :  -5.18353668132e-18
+actor ID=3811626     :  -1.3129470353e-16
+actor ID=2757658     :  -1.75059604707e-16
+actor ID=724992      :  -2.2172750406e-16
+actor ID=2654869     :  -5.25178814121e-16
+actor ID=2678332     :  -0.0406623546358
+actor ID=3650577     :  -0.0686696581064
+actor ID=486691      :  -0.0899635025951
+actor ID=925935      :  -0.147065314445
+actor ID=133985      :  -0.162649418543
+actor ID=310310      :  -0.17992700519
+actor ID=2672983     :  -0.238709019704
+actor ID=176713      :  -0.358063529556
+actor ID=3251912     :  -0.455029009879
+actor ID=412301      :  -0.716127059112
+
+query>task1b Thriller PCA
+Latent Semantic 1
+actor ID=1014988     :  0.0
+actor ID=1021526     :  0.0
+actor ID=1049512     :  0.0
+actor ID=1060304     :  0.0
+actor ID=1061413     :  0.0
+actor ID=1069742     :  0.0
+actor ID=1072584     :  0.0
+actor ID=1072668     :  0.0
+actor ID=1158040     :  0.0
+actor ID=1167048     :  0.0
+actor ID=1170039     :  0.0
+actor ID=1190192     :  0.0
+actor ID=1198397     :  0.0
+actor ID=1206315     :  0.0
+actor ID=1216582     :  0.0
+actor ID=1229838     :  0.0
+actor ID=1253701     :  0.0
+actor ID=1260631     :  0.0
+actor ID=1273531     :  0.0
+actor ID=1290791     :  0.0
+actor ID=1292135     :  0.0
+actor ID=1297720     :  0.0
+actor ID=1309137     :  0.0
+actor ID=1323070     :  0.0
+actor ID=1335137     :  0.0
+actor ID=133985      :  0.0
+actor ID=1342347     :  0.0
+actor ID=1348041     :  0.0
+actor ID=1351913     :  0.0
+actor ID=1374719     :  0.0
+actor ID=1395789     :  0.0
+actor ID=1402001     :  0.0
+actor ID=1405458     :  0.0
+actor ID=1463669     :  0.0
+actor ID=1480185     :  0.0
+actor ID=1483828     :  0.0
+actor ID=1542279     :  0.0
+actor ID=1584763     :  0.0
+actor ID=1606367     :  0.0
+actor ID=1637467     :  0.0
+actor ID=1658441     :  0.0
+actor ID=1671991     :  0.0
+actor ID=1681146     :  0.0
+actor ID=1698048     :  0.0
+actor ID=172359      :  0.0
+actor ID=1726318     :  0.0
+actor ID=1739265     :  0.0
+actor ID=1747719     :  0.0
+actor ID=1760831     :  0.0
+actor ID=1761219     :  0.0
+actor ID=1767026     :  0.0
+actor ID=176713      :  0.0
+actor ID=1771318     :  0.0
+actor ID=1781042     :  0.0
+actor ID=17838   :  0.0
+actor ID=1792455     :  0.0
+actor ID=1793283     :  0.0
+actor ID=1808442     :  0.0
+actor ID=1817602     :  0.0
+actor ID=1823127     :  0.0
+actor ID=1839848     :  0.0
+actor ID=1853425     :  0.0
+actor ID=1856129     :  0.0
+actor ID=1860883     :  0.0
+actor ID=1892087     :  0.0
+actor ID=1900518     :  0.0
+actor ID=1907368     :  0.0
+actor ID=1929540     :  0.0
+actor ID=1953875     :  0.0
+actor ID=1978197     :  0.0
+actor ID=1983799     :  0.0
+actor ID=2049627     :  0.0
+actor ID=2055016     :  0.0
+actor ID=2076540     :  0.0
+actor ID=2082212     :  0.0
+actor ID=2083024     :  0.0
+actor ID=2102051     :  0.0
+actor ID=2108815     :  0.0
+actor ID=2125863     :  0.0
+actor ID=2131839     :  0.0
+actor ID=2145993     :  0.0
+actor ID=2149685     :  0.0
+actor ID=2166109     :  0.0
+actor ID=2177227     :  0.0
+actor ID=2197978     :  0.0
+actor ID=225389      :  0.0
+actor ID=225715      :  0.0
+actor ID=2260528     :  0.0
+actor ID=2274023     :  0.0
+actor ID=2275105     :  0.0
+actor ID=2276255     :  0.0
+actor ID=2277581     :  0.0
+actor ID=2284269     :  0.0
+actor ID=2312401     :  0.0
+actor ID=2329949     :  0.0
+actor ID=2338959     :  0.0
+actor ID=2340377     :  0.0
+actor ID=2355195     :  0.0
+actor ID=2369664     :  0.0
+actor ID=238391      :  0.0
+actor ID=2392683     :  0.0
+actor ID=2408311     :  0.0
+actor ID=2411110     :  0.0
+actor ID=2413133     :  0.0
+actor ID=2430898     :  0.0
+actor ID=2433640     :  0.0
+actor ID=2436599     :  0.0
+actor ID=2452267     :  0.0
+actor ID=2454190     :  0.0
+actor ID=2472056     :  0.0
+actor ID=2472635     :  0.0
+actor ID=2476125     :  0.0
+actor ID=2476829     :  0.0
+actor ID=2481470     :  0.0
+actor ID=2495559     :  0.0
+actor ID=2520743     :  0.0
+actor ID=2532241     :  0.0
+actor ID=2558605     :  0.0
+actor ID=2605571     :  0.0
+actor ID=2613454     :  0.0
+actor ID=263611      :  0.0
+actor ID=2647481     :  0.0
+actor ID=2654869     :  0.0
+actor ID=2655416     :  0.0
+actor ID=2665816     :  0.0
+actor ID=2672983     :  0.0
+actor ID=2678332     :  0.0
+actor ID=2681348     :  0.0
+actor ID=2682129     :  0.0
+actor ID=2689164     :  0.0
+actor ID=2706646     :  0.0
+actor ID=2731923     :  0.0
+actor ID=2745228     :  0.0
+actor ID=2746767     :  0.0
+actor ID=2757658     :  0.0
+actor ID=2769988     :  0.0
+actor ID=277151      :  0.0
+actor ID=277808      :  0.0
+actor ID=278679      :  0.0
+actor ID=2805154     :  0.0
+actor ID=2805709     :  0.0
+actor ID=2806255     :  0.0
+actor ID=2816072     :  0.0
+actor ID=2819679     :  0.0
+actor ID=2823711     :  0.0
+actor ID=283459      :  0.0
+actor ID=2867955     :  0.0
+actor ID=2870323     :  0.0
+actor ID=2871653     :  0.0
+actor ID=2875249     :  0.0
+actor ID=2899766     :  0.0
+actor ID=290614      :  0.0
+actor ID=2946264     :  0.0
+actor ID=2961547     :  0.0
+actor ID=2963551     :  0.0
+actor ID=2991079     :  0.0
+actor ID=2997171     :  0.0
+actor ID=3017359     :  0.0
+actor ID=3019879     :  0.0
+actor ID=3076964     :  0.0
+actor ID=3097703     :  0.0
+actor ID=310310      :  0.0
+actor ID=3120951     :  0.0
+actor ID=312142      :  0.0
+actor ID=3121684     :  0.0
+actor ID=313166      :  0.0
+actor ID=316365      :  0.0
+actor ID=3168573     :  0.0
+actor ID=319124      :  0.0
+actor ID=3191522     :  0.0
+actor ID=322458      :  0.0
+actor ID=3249812     :  0.0
+actor ID=3251912     :  0.0
+actor ID=3257358     :  0.0
+actor ID=3292476     :  0.0
+actor ID=3301462     :  0.0
+actor ID=3310162     :  0.0
+actor ID=3339939     :  0.0
+actor ID=3368894     :  0.0
+actor ID=3373136     :  0.0
+actor ID=3373644     :  0.0
+actor ID=3375959     :  0.0
+actor ID=337981      :  0.0
+actor ID=339013      :  0.0
+actor ID=3405985     :  0.0
+actor ID=3413531     :  0.0
+actor ID=3426176     :  0.0
+actor ID=3426287     :  0.0
+actor ID=3431089     :  0.0
+actor ID=3447369     :  0.0
+actor ID=3464199     :  0.0
+actor ID=3471294     :  0.0
+actor ID=350376      :  0.0
+actor ID=3509936     :  0.0
+actor ID=3513128     :  0.0
+actor ID=3520350     :  0.0
+actor ID=353718      :  0.0
+actor ID=353746      :  0.0
+actor ID=3544742     :  0.0
+actor ID=3558986     :  0.0
+actor ID=3568607     :  0.0
+actor ID=3571456     :  0.0
+actor ID=3599993     :  0.0
+actor ID=3618428     :  0.0
+actor ID=3619702     :  0.0
+actor ID=3632088     :  0.0
+actor ID=3648407     :  0.0
+actor ID=3649447     :  0.0
+actor ID=3650577     :  0.0
+actor ID=3704908     :  0.0
+actor ID=3730286     :  0.0
+actor ID=3747431     :  0.0
+actor ID=3756760     :  0.0
+actor ID=3762843     :  0.0
+actor ID=3763705     :  0.0
+actor ID=377600      :  0.0
+actor ID=3781744     :  0.0
+actor ID=3783897     :  0.0
+actor ID=3788413     :  0.0
+actor ID=3805632     :  0.0
+actor ID=3807179     :  0.0
+actor ID=3811626     :  0.0
+actor ID=3813562     :  0.0
+actor ID=3825023     :  0.0
+actor ID=3838861     :  0.0
+actor ID=386263      :  0.0
+actor ID=3890203     :  0.0
+actor ID=3898471     :  0.0
+actor ID=3900269     :  0.0
+actor ID=3907210     :  0.0
+actor ID=3951524     :  0.0
+actor ID=396877      :  0.0
+actor ID=406221      :  0.0
+actor ID=408123      :  0.0
+actor ID=412301      :  0.0
+actor ID=416857      :  0.0
+actor ID=450680      :  0.0
+actor ID=455857      :  0.0
+actor ID=458558      :  0.0
+actor ID=45899   :  0.0
+actor ID=461637      :  0.0
+actor ID=462304      :  0.0
+actor ID=470697      :  0.0
+actor ID=485553      :  0.0
+actor ID=486691      :  0.0
+actor ID=498094      :  0.0
+actor ID=511361      :  0.0
+actor ID=515252      :  0.0
+actor ID=520603      :  0.0
+actor ID=523435      :  0.0
+actor ID=542238      :  0.0
+actor ID=562270      :  0.0
+actor ID=565786      :  0.0
+actor ID=581911      :  0.0
+actor ID=602906      :  0.0
+actor ID=606633      :  0.0
+actor ID=607316      :  0.0
+actor ID=608635      :  0.0
+actor ID=618247      :  0.0
+actor ID=621487      :  0.0
+actor ID=623809      :  0.0
+actor ID=630173      :  0.0
+actor ID=630676      :  0.0
+actor ID=642688      :  0.0
+actor ID=651056      :  0.0
+actor ID=665569      :  0.0
+actor ID=665574      :  0.0
+actor ID=68671   :  0.0
+actor ID=692749      :  0.0
+actor ID=702631      :  0.0
+actor ID=713207      :  0.0
+actor ID=715492      :  0.0
+actor ID=718017      :  0.0
+actor ID=719241      :  0.0
+actor ID=720541      :  0.0
+actor ID=721841      :  0.0
+actor ID=724992      :  0.0
+actor ID=733545      :  0.0
+actor ID=749056      :  0.0
+actor ID=755909      :  0.0
+actor ID=755967      :  0.0
+actor ID=782027      :  0.0
+actor ID=810424      :  0.0
+actor ID=830152      :  0.0
+actor ID=831209      :  0.0
+actor ID=837734      :  0.0
+actor ID=861346      :  0.0
+actor ID=872868      :  0.0
+actor ID=878356      :  0.0
+actor ID=901175      :  0.0
+actor ID=925935      :  0.0
+actor ID=938435      :  0.0
+actor ID=951580      :  0.0
+actor ID=952910      :  0.0
+actor ID=96585   :  0.0
+actor ID=973296      :  0.0
+actor ID=987727      :  0.0
+actor ID=99457   :  0.0
+actor ID=3134858     :  -5.76429287669e-18
+actor ID=499028      :  -1.15285857534e-17
+actor ID=3425734     :  -2.30571715068e-17
+actor ID=128645      :  -3.60268304793e-17
+actor ID=61523   :  -0.101493490795
+actor ID=2494359     :  -0.128065561922
+actor ID=3116114     :  -0.134720785547
+actor ID=2427896     :  -0.170754082563
+actor ID=2557253     :  -0.256131123844
+actor ID=591435      :  -0.269441571094
+actor ID=1329956     :  -0.887575193192
+
+Latent Semantic 2
+actor ID=1014988     :  0.0
+actor ID=1021526     :  0.0
+actor ID=1049512     :  0.0
+actor ID=1061413     :  0.0
+actor ID=1069742     :  0.0
+actor ID=1072584     :  0.0
+actor ID=1072668     :  0.0
+actor ID=1158040     :  0.0
+actor ID=1167048     :  0.0
+actor ID=1170039     :  0.0
+actor ID=1190192     :  0.0
+actor ID=1198397     :  0.0
+actor ID=1206315     :  0.0
+actor ID=1216582     :  0.0
+actor ID=1229838     :  0.0
+actor ID=1253701     :  0.0
+actor ID=1260631     :  0.0
+actor ID=1273531     :  0.0
+actor ID=128645      :  0.0
+actor ID=1290791     :  0.0
+actor ID=1292135     :  0.0
+actor ID=1297720     :  0.0
+actor ID=1309137     :  0.0
+actor ID=1323070     :  0.0
+actor ID=1329956     :  0.0
+actor ID=1335137     :  0.0
+actor ID=133985      :  0.0
+actor ID=1342347     :  0.0
+actor ID=1348041     :  0.0
+actor ID=1351913     :  0.0
+actor ID=1374719     :  0.0
+actor ID=1395789     :  0.0
+actor ID=1402001     :  0.0
+actor ID=1405458     :  0.0
+actor ID=1463669     :  0.0
+actor ID=1480185     :  0.0
+actor ID=1483828     :  0.0
+actor ID=1542279     :  0.0
+actor ID=1584763     :  0.0
+actor ID=1606367     :  0.0
+actor ID=1637467     :  0.0
+actor ID=1658441     :  0.0
+actor ID=1671991     :  0.0
+actor ID=1681146     :  0.0
+actor ID=1698048     :  0.0
+actor ID=172359      :  0.0
+actor ID=1726318     :  0.0
+actor ID=1739265     :  0.0
+actor ID=1747719     :  0.0
+actor ID=1760831     :  0.0
+actor ID=1761219     :  0.0
+actor ID=1767026     :  0.0
+actor ID=176713      :  0.0
+actor ID=1771318     :  0.0
+actor ID=1781042     :  0.0
+actor ID=17838   :  0.0
+actor ID=1792455     :  0.0
+actor ID=1808442     :  0.0
+actor ID=1817602     :  0.0
+actor ID=1823127     :  0.0
+actor ID=1839848     :  0.0
+actor ID=1853425     :  0.0
+actor ID=1856129     :  0.0
+actor ID=1860883     :  0.0
+actor ID=1892087     :  0.0
+actor ID=1900518     :  0.0
+actor ID=1907368     :  0.0
+actor ID=1953875     :  0.0
+actor ID=1978197     :  0.0
+actor ID=1983799     :  0.0
+actor ID=2049627     :  0.0
+actor ID=2055016     :  0.0
+actor ID=2076540     :  0.0
+actor ID=2082212     :  0.0
+actor ID=2083024     :  0.0
+actor ID=2102051     :  0.0
+actor ID=2108815     :  0.0
+actor ID=2125863     :  0.0
+actor ID=2131839     :  0.0
+actor ID=2145993     :  0.0
+actor ID=2149685     :  0.0
+actor ID=2166109     :  0.0
+actor ID=2177227     :  0.0
+actor ID=2197978     :  0.0
+actor ID=225389      :  0.0
+actor ID=225715      :  0.0
+actor ID=2260528     :  0.0
+actor ID=2274023     :  0.0
+actor ID=2275105     :  0.0
+actor ID=2276255     :  0.0
+actor ID=2277581     :  0.0
+actor ID=2284269     :  0.0
+actor ID=2312401     :  0.0
+actor ID=2329949     :  0.0
+actor ID=2338959     :  0.0
+actor ID=2340377     :  0.0
+actor ID=2355195     :  0.0
+actor ID=2369664     :  0.0
+actor ID=238391      :  0.0
+actor ID=2392683     :  0.0
+actor ID=2408311     :  0.0
+actor ID=2411110     :  0.0
+actor ID=2413133     :  0.0
+actor ID=2427896     :  0.0
+actor ID=2430898     :  0.0
+actor ID=2433640     :  0.0
+actor ID=2436599     :  0.0
+actor ID=2452267     :  0.0
+actor ID=2454190     :  0.0
+actor ID=2472056     :  0.0
+actor ID=2472635     :  0.0
+actor ID=2476125     :  0.0
+actor ID=2476829     :  0.0
+actor ID=2481470     :  0.0
+actor ID=2494359     :  0.0
+actor ID=2495559     :  0.0
+actor ID=2520743     :  0.0
+actor ID=2532241     :  0.0
+actor ID=2557253     :  0.0
+actor ID=2558605     :  0.0
+actor ID=2605571     :  0.0
+actor ID=2613454     :  0.0
+actor ID=263611      :  0.0
+actor ID=2647481     :  0.0
+actor ID=2654869     :  0.0
+actor ID=2655416     :  0.0
+actor ID=2665816     :  0.0
+actor ID=2672983     :  0.0
+actor ID=2678332     :  0.0
+actor ID=2681348     :  0.0
+actor ID=2682129     :  0.0
+actor ID=2689164     :  0.0
+actor ID=2706646     :  0.0
+actor ID=2731923     :  0.0
+actor ID=2745228     :  0.0
+actor ID=2746767     :  0.0
+actor ID=2757658     :  0.0
+actor ID=2769988     :  0.0
+actor ID=277151      :  0.0
+actor ID=277808      :  0.0
+actor ID=278679      :  0.0
+actor ID=2805154     :  0.0
+actor ID=2806255     :  0.0
+actor ID=2816072     :  0.0
+actor ID=2819679     :  0.0
+actor ID=2823711     :  0.0
+actor ID=283459      :  0.0
+actor ID=2867955     :  0.0
+actor ID=2870323     :  0.0
+actor ID=2875249     :  0.0
+actor ID=2899766     :  0.0
+actor ID=290614      :  0.0
+actor ID=2946264     :  0.0
+actor ID=2963551     :  0.0
+actor ID=2991079     :  0.0
+actor ID=2997171     :  0.0
+actor ID=3017359     :  0.0
+actor ID=3019879     :  0.0
+actor ID=3076964     :  0.0
+actor ID=3097703     :  0.0
+actor ID=310310      :  0.0
+actor ID=3116114     :  0.0
+actor ID=3120951     :  0.0
+actor ID=312142      :  0.0
+actor ID=3121684     :  0.0
+actor ID=313166      :  0.0
+actor ID=3134858     :  0.0
+actor ID=316365      :  0.0
+actor ID=3168573     :  0.0
+actor ID=319124      :  0.0
+actor ID=3191522     :  0.0
+actor ID=322458      :  0.0
+actor ID=3249812     :  0.0
+actor ID=3251912     :  0.0
+actor ID=3257358     :  0.0
+actor ID=3301462     :  0.0
+actor ID=3310162     :  0.0
+actor ID=3339939     :  0.0
+actor ID=3368894     :  0.0
+actor ID=3373136     :  0.0
+actor ID=3373644     :  0.0
+actor ID=3375959     :  0.0
+actor ID=337981      :  0.0
+actor ID=339013      :  0.0
+actor ID=3405985     :  0.0
+actor ID=3413531     :  0.0
+actor ID=3425734     :  0.0
+actor ID=3426176     :  0.0
+actor ID=3426287     :  0.0
+actor ID=3431089     :  0.0
+actor ID=3447369     :  0.0
+actor ID=3464199     :  0.0
+actor ID=3471294     :  0.0
+actor ID=350376      :  0.0
+actor ID=3509936     :  0.0
+actor ID=3513128     :  0.0
+actor ID=3520350     :  0.0
+actor ID=353718      :  0.0
+actor ID=353746      :  0.0
+actor ID=3544742     :  0.0
+actor ID=3558986     :  0.0
+actor ID=3568607     :  0.0
+actor ID=3571456     :  0.0
+actor ID=3599993     :  0.0
+actor ID=3618428     :  0.0
+actor ID=3619702     :  0.0
+actor ID=3632088     :  0.0
+actor ID=3648407     :  0.0
+actor ID=3649447     :  0.0
+actor ID=3650577     :  0.0
+actor ID=3704908     :  0.0
+actor ID=3730286     :  0.0
+actor ID=3747431     :  0.0
+actor ID=3756760     :  0.0
+actor ID=3762843     :  0.0
+actor ID=3763705     :  0.0
+actor ID=377600      :  0.0
+actor ID=3781744     :  0.0
+actor ID=3783897     :  0.0
+actor ID=3788413     :  0.0
+actor ID=3805632     :  0.0
+actor ID=3807179     :  0.0
+actor ID=3811626     :  0.0
+actor ID=3813562     :  0.0
+actor ID=3825023     :  0.0
+actor ID=3838861     :  0.0
+actor ID=386263      :  0.0
+actor ID=3890203     :  0.0
+actor ID=3898471     :  0.0
+actor ID=3900269     :  0.0
+actor ID=3907210     :  0.0
+actor ID=3951524     :  0.0
+actor ID=396877      :  0.0
+actor ID=406221      :  0.0
+actor ID=408123      :  0.0
+actor ID=412301      :  0.0
+actor ID=416857      :  0.0
+actor ID=450680      :  0.0
+actor ID=455857      :  0.0
+actor ID=45899   :  0.0
+actor ID=461637      :  0.0
+actor ID=462304      :  0.0
+actor ID=470697      :  0.0
+actor ID=485553      :  0.0
+actor ID=486691      :  0.0
+actor ID=498094      :  0.0
+actor ID=499028      :  0.0
+actor ID=511361      :  0.0
+actor ID=515252      :  0.0
+actor ID=520603      :  0.0
+actor ID=523435      :  0.0
+actor ID=542238      :  0.0
+actor ID=562270      :  0.0
+actor ID=565786      :  0.0
+actor ID=581911      :  0.0
+actor ID=591435      :  0.0
+actor ID=602906      :  0.0
+actor ID=606633      :  0.0
+actor ID=607316      :  0.0
+actor ID=608635      :  0.0
+actor ID=61523   :  0.0
+actor ID=618247      :  0.0
+actor ID=621487      :  0.0
+actor ID=623809      :  0.0
+actor ID=630173      :  0.0
+actor ID=630676      :  0.0
+actor ID=642688      :  0.0
+actor ID=651056      :  0.0
+actor ID=665569      :  0.0
+actor ID=665574      :  0.0
+actor ID=68671   :  0.0
+actor ID=692749      :  0.0
+actor ID=702631      :  0.0
+actor ID=713207      :  0.0
+actor ID=715492      :  0.0
+actor ID=718017      :  0.0
+actor ID=719241      :  0.0
+actor ID=720541      :  0.0
+actor ID=721841      :  0.0
+actor ID=724992      :  0.0
+actor ID=733545      :  0.0
+actor ID=749056      :  0.0
+actor ID=755909      :  0.0
+actor ID=755967      :  0.0
+actor ID=782027      :  0.0
+actor ID=810424      :  0.0
+actor ID=830152      :  0.0
+actor ID=831209      :  0.0
+actor ID=837734      :  0.0
+actor ID=861346      :  0.0
+actor ID=872868      :  0.0
+actor ID=878356      :  0.0
+actor ID=901175      :  0.0
+actor ID=925935      :  0.0
+actor ID=938435      :  0.0
+actor ID=951580      :  0.0
+actor ID=952910      :  0.0
+actor ID=96585   :  0.0
+actor ID=973296      :  0.0
+actor ID=987727      :  0.0
+actor ID=99457   :  0.0
+actor ID=1060304     :  -1.51751605126e-17
+actor ID=1929540     :  -0.110879860075
+actor ID=2961547     :  -0.147839813433
+actor ID=2871653     :  -0.164159731666
+actor ID=2805709     :  -0.18725138154
+actor ID=3292476     :  -0.218879642221
+actor ID=1793283     :  -0.651731977898
+actor ID=458558      :  -0.656638926664
+
+Latent Semantic 3
+actor ID=458558      :  8.47064801457e-17
+actor ID=2871653     :  2.11766200364e-17
+actor ID=2805709     :  1.64883952529e-18
+actor ID=1335137     :  9.43547716552e-19
+actor ID=1929540     :  5.98739913348e-20
+actor ID=1014988     :  0.0
+actor ID=1021526     :  0.0
+actor ID=1049512     :  0.0
+actor ID=1061413     :  0.0
+actor ID=1069742     :  0.0
+actor ID=1072584     :  0.0
+actor ID=1072668     :  0.0
+actor ID=1158040     :  0.0
+actor ID=1167048     :  0.0
+actor ID=1170039     :  0.0
+actor ID=1190192     :  0.0
+actor ID=1206315     :  0.0
+actor ID=1216582     :  0.0
+actor ID=1229838     :  0.0
+actor ID=1253701     :  0.0
+actor ID=1260631     :  0.0
+actor ID=1273531     :  0.0
+actor ID=128645      :  0.0
+actor ID=1290791     :  0.0
+actor ID=1292135     :  0.0
+actor ID=1297720     :  0.0
+actor ID=1323070     :  0.0
+actor ID=1329956     :  0.0
+actor ID=133985      :  0.0
+actor ID=1342347     :  0.0
+actor ID=1348041     :  0.0
+actor ID=1351913     :  0.0
+actor ID=1374719     :  0.0
+actor ID=1395789     :  0.0
+actor ID=1402001     :  0.0
+actor ID=1405458     :  0.0
+actor ID=1463669     :  0.0
+actor ID=1480185     :  0.0
+actor ID=1483828     :  0.0
+actor ID=1542279     :  0.0
+actor ID=1584763     :  0.0
+actor ID=1606367     :  0.0
+actor ID=1637467     :  0.0
+actor ID=1658441     :  0.0
+actor ID=1671991     :  0.0
+actor ID=1681146     :  0.0
+actor ID=1698048     :  0.0
+actor ID=172359      :  0.0
+actor ID=1726318     :  0.0
+actor ID=1739265     :  0.0
+actor ID=1747719     :  0.0
+actor ID=1760831     :  0.0
+actor ID=1761219     :  0.0
+actor ID=1767026     :  0.0
+actor ID=176713      :  0.0
+actor ID=1771318     :  0.0
+actor ID=1781042     :  0.0
+actor ID=17838   :  0.0
+actor ID=1792455     :  0.0
+actor ID=1808442     :  0.0
+actor ID=1817602     :  0.0
+actor ID=1823127     :  0.0
+actor ID=1839848     :  0.0
+actor ID=1853425     :  0.0
+actor ID=1856129     :  0.0
+actor ID=1860883     :  0.0
+actor ID=1892087     :  0.0
+actor ID=1900518     :  0.0
+actor ID=1907368     :  0.0
+actor ID=1953875     :  0.0
+actor ID=1978197     :  0.0
+actor ID=1983799     :  0.0
+actor ID=2049627     :  0.0
+actor ID=2055016     :  0.0
+actor ID=2076540     :  0.0
+actor ID=2082212     :  0.0
+actor ID=2083024     :  0.0
+actor ID=2102051     :  0.0
+actor ID=2108815     :  0.0
+actor ID=2125863     :  0.0
+actor ID=2131839     :  0.0
+actor ID=2145993     :  0.0
+actor ID=2149685     :  0.0
+actor ID=2166109     :  0.0
+actor ID=2177227     :  0.0
+actor ID=2197978     :  0.0
+actor ID=225389      :  0.0
+actor ID=225715      :  0.0
+actor ID=2260528     :  0.0
+actor ID=2274023     :  0.0
+actor ID=2275105     :  0.0
+actor ID=2276255     :  0.0
+actor ID=2277581     :  0.0
+actor ID=2284269     :  0.0
+actor ID=2312401     :  0.0
+actor ID=2329949     :  0.0
+actor ID=2338959     :  0.0
+actor ID=2340377     :  0.0
+actor ID=2355195     :  0.0
+actor ID=2369664     :  0.0
+actor ID=238391      :  0.0
+actor ID=2392683     :  0.0
+actor ID=2408311     :  0.0
+actor ID=2411110     :  0.0
+actor ID=2413133     :  0.0
+actor ID=2427896     :  0.0
+actor ID=2430898     :  0.0
+actor ID=2433640     :  0.0
+actor ID=2436599     :  0.0
+actor ID=2452267     :  0.0
+actor ID=2454190     :  0.0
+actor ID=2472056     :  0.0
+actor ID=2472635     :  0.0
+actor ID=2476125     :  0.0
+actor ID=2476829     :  0.0
+actor ID=2481470     :  0.0
+actor ID=2494359     :  0.0
+actor ID=2495559     :  0.0
+actor ID=2520743     :  0.0
+actor ID=2532241     :  0.0
+actor ID=2557253     :  0.0
+actor ID=2558605     :  0.0
+actor ID=2605571     :  0.0
+actor ID=2613454     :  0.0
+actor ID=263611      :  0.0
+actor ID=2647481     :  0.0
+actor ID=2654869     :  0.0
+actor ID=2655416     :  0.0
+actor ID=2665816     :  0.0
+actor ID=2672983     :  0.0
+actor ID=2678332     :  0.0
+actor ID=2681348     :  0.0
+actor ID=2682129     :  0.0
+actor ID=2689164     :  0.0
+actor ID=2706646     :  0.0
+actor ID=2731923     :  0.0
+actor ID=2745228     :  0.0
+actor ID=2746767     :  0.0
+actor ID=2757658     :  0.0
+actor ID=2769988     :  0.0
+actor ID=277808      :  0.0
+actor ID=278679      :  0.0
+actor ID=2805154     :  0.0
+actor ID=2806255     :  0.0
+actor ID=2816072     :  0.0
+actor ID=2819679     :  0.0
+actor ID=2823711     :  0.0
+actor ID=2867955     :  0.0
+actor ID=2870323     :  0.0
+actor ID=2875249     :  0.0
+actor ID=2899766     :  0.0
+actor ID=290614      :  0.0
+actor ID=2946264     :  0.0
+actor ID=2963551     :  0.0
+actor ID=2991079     :  0.0
+actor ID=2997171     :  0.0
+actor ID=3017359     :  0.0
+actor ID=3019879     :  0.0
+actor ID=3076964     :  0.0
+actor ID=3097703     :  0.0
+actor ID=310310      :  0.0
+actor ID=3116114     :  0.0
+actor ID=3120951     :  0.0
+actor ID=312142      :  0.0
+actor ID=3121684     :  0.0
+actor ID=3134858     :  0.0
+actor ID=316365      :  0.0
+actor ID=319124      :  0.0
+actor ID=3191522     :  0.0
+actor ID=322458      :  0.0
+actor ID=3249812     :  0.0
+actor ID=3251912     :  0.0
+actor ID=3257358     :  0.0
+actor ID=3301462     :  0.0
+actor ID=3310162     :  0.0
+actor ID=3339939     :  0.0
+actor ID=3368894     :  0.0
+actor ID=3373136     :  0.0
+actor ID=3373644     :  0.0
+actor ID=3375959     :  0.0
+actor ID=337981      :  0.0
+actor ID=339013      :  0.0
+actor ID=3405985     :  0.0
+actor ID=3413531     :  0.0
+actor ID=3425734     :  0.0
+actor ID=3426176     :  0.0
+actor ID=3426287     :  0.0
+actor ID=3431089     :  0.0
+actor ID=3447369     :  0.0
+actor ID=3464199     :  0.0
+actor ID=3471294     :  0.0
+actor ID=350376      :  0.0
+actor ID=3509936     :  0.0
+actor ID=3513128     :  0.0
+actor ID=3520350     :  0.0
+actor ID=353718      :  0.0
+actor ID=353746      :  0.0
+actor ID=3544742     :  0.0
+actor ID=3558986     :  0.0
+actor ID=3568607     :  0.0
+actor ID=3571456     :  0.0
+actor ID=3599993     :  0.0
+actor ID=3618428     :  0.0
+actor ID=3619702     :  0.0
+actor ID=3648407     :  0.0
+actor ID=3649447     :  0.0
+actor ID=3650577     :  0.0
+actor ID=3704908     :  0.0
+actor ID=3730286     :  0.0
+actor ID=3747431     :  0.0
+actor ID=3756760     :  0.0
+actor ID=3762843     :  0.0
+actor ID=3763705     :  0.0
+actor ID=377600      :  0.0
+actor ID=3781744     :  0.0
+actor ID=3783897     :  0.0
+actor ID=3788413     :  0.0
+actor ID=3805632     :  0.0
+actor ID=3807179     :  0.0
+actor ID=3811626     :  0.0
+actor ID=3813562     :  0.0
+actor ID=3825023     :  0.0
+actor ID=3838861     :  0.0
+actor ID=386263      :  0.0
+actor ID=3890203     :  0.0
+actor ID=3898471     :  0.0
+actor ID=3900269     :  0.0
+actor ID=3907210     :  0.0
+actor ID=3951524     :  0.0
+actor ID=396877      :  0.0
+actor ID=408123      :  0.0
+actor ID=412301      :  0.0
+actor ID=416857      :  0.0
+actor ID=450680      :  0.0
+actor ID=455857      :  0.0
+actor ID=45899   :  0.0
+actor ID=461637      :  0.0
+actor ID=462304      :  0.0
+actor ID=470697      :  0.0
+actor ID=485553      :  0.0
+actor ID=486691      :  0.0
+actor ID=498094      :  0.0
+actor ID=499028      :  0.0
+actor ID=511361      :  0.0
+actor ID=515252      :  0.0
+actor ID=520603      :  0.0
+actor ID=523435      :  0.0
+actor ID=562270      :  0.0
+actor ID=565786      :  0.0
+actor ID=581911      :  0.0
+actor ID=591435      :  0.0
+actor ID=602906      :  0.0
+actor ID=606633      :  0.0
+actor ID=607316      :  0.0
+actor ID=608635      :  0.0
+actor ID=61523   :  0.0
+actor ID=618247      :  0.0
+actor ID=621487      :  0.0
+actor ID=623809      :  0.0
+actor ID=630173      :  0.0
+actor ID=630676      :  0.0
+actor ID=642688      :  0.0
+actor ID=651056      :  0.0
+actor ID=665569      :  0.0
+actor ID=665574      :  0.0
+actor ID=692749      :  0.0
+actor ID=702631      :  0.0
+actor ID=713207      :  0.0
+actor ID=715492      :  0.0
+actor ID=718017      :  0.0
+actor ID=719241      :  0.0
+actor ID=720541      :  0.0
+actor ID=721841      :  0.0
+actor ID=724992      :  0.0
+actor ID=733545      :  0.0
+actor ID=749056      :  0.0
+actor ID=755909      :  0.0
+actor ID=755967      :  0.0
+actor ID=782027      :  0.0
+actor ID=810424      :  0.0
+actor ID=830152      :  0.0
+actor ID=831209      :  0.0
+actor ID=837734      :  0.0
+actor ID=872868      :  0.0
+actor ID=878356      :  0.0
+actor ID=901175      :  0.0
+actor ID=925935      :  0.0
+actor ID=938435      :  0.0
+actor ID=951580      :  0.0
+actor ID=952910      :  0.0
+actor ID=96585   :  0.0
+actor ID=973296      :  0.0
+actor ID=987727      :  0.0
+actor ID=99457   :  0.0
+actor ID=1793283     :  -2.5959345129e-19
+actor ID=1060304     :  -1.21094797775e-18
+actor ID=2961547     :  -1.47570420294e-18
+actor ID=3292476     :  -5.70155466694e-18
+actor ID=1309137     :  -2.2298096778e-17
+actor ID=68671   :  -0.0889657539884
+actor ID=283459      :  -0.0990967163771
+actor ID=406221      :  -0.118621005318
+actor ID=861346      :  -0.132128955169
+actor ID=313166      :  -0.198193432754
+actor ID=3632088     :  -0.260302734021
+actor ID=277151      :  -0.280394705457
+actor ID=3168573     :  -0.355863015954
+actor ID=542238      :  -0.508239709847
+actor ID=1198397     :  -0.616547242278
+
+Latent Semantic 4
+actor ID=1216582     :  5.18353668132e-18
+actor ID=1014988     :  0.0
+actor ID=1021526     :  0.0
+actor ID=1049512     :  0.0
+actor ID=1060304     :  0.0
+actor ID=1061413     :  0.0
+actor ID=1069742     :  0.0
+actor ID=1072584     :  0.0
+actor ID=1072668     :  0.0
+actor ID=1158040     :  0.0
+actor ID=1167048     :  0.0
+actor ID=1170039     :  0.0
+actor ID=1190192     :  0.0
+actor ID=1198397     :  0.0
+actor ID=1206315     :  0.0
+actor ID=1229838     :  0.0
+actor ID=1260631     :  0.0
+actor ID=1273531     :  0.0
+actor ID=128645      :  0.0
+actor ID=1290791     :  0.0
+actor ID=1292135     :  0.0
+actor ID=1297720     :  0.0
+actor ID=1309137     :  0.0
+actor ID=1323070     :  0.0
+actor ID=1329956     :  0.0
+actor ID=1335137     :  0.0
+actor ID=1342347     :  0.0
+actor ID=1348041     :  0.0
+actor ID=1351913     :  0.0
+actor ID=1374719     :  0.0
+actor ID=1395789     :  0.0
+actor ID=1402001     :  0.0
+actor ID=1405458     :  0.0
+actor ID=1463669     :  0.0
+actor ID=1480185     :  0.0
+actor ID=1483828     :  0.0
+actor ID=1542279     :  0.0
+actor ID=1584763     :  0.0
+actor ID=1606367     :  0.0
+actor ID=1637467     :  0.0
+actor ID=1658441     :  0.0
+actor ID=1671991     :  0.0
+actor ID=1681146     :  0.0
+actor ID=1698048     :  0.0
+actor ID=172359      :  0.0
+actor ID=1726318     :  0.0
+actor ID=1739265     :  0.0
+actor ID=1747719     :  0.0
+actor ID=1760831     :  0.0
+actor ID=1761219     :  0.0
+actor ID=1767026     :  0.0
+actor ID=1771318     :  0.0
+actor ID=1781042     :  0.0
+actor ID=17838   :  0.0
+actor ID=1792455     :  0.0
+actor ID=1793283     :  0.0
+actor ID=1808442     :  0.0
+actor ID=1817602     :  0.0
+actor ID=1823127     :  0.0
+actor ID=1839848     :  0.0
+actor ID=1853425     :  0.0
+actor ID=1856129     :  0.0
+actor ID=1860883     :  0.0
+actor ID=1892087     :  0.0
+actor ID=1900518     :  0.0
+actor ID=1907368     :  0.0
+actor ID=1929540     :  0.0
+actor ID=1953875     :  0.0
+actor ID=1978197     :  0.0
+actor ID=1983799     :  0.0
+actor ID=2049627     :  0.0
+actor ID=2055016     :  0.0
+actor ID=2076540     :  0.0
+actor ID=2082212     :  0.0
+actor ID=2083024     :  0.0
+actor ID=2102051     :  0.0
+actor ID=2108815     :  0.0
+actor ID=2125863     :  0.0
+actor ID=2131839     :  0.0
+actor ID=2145993     :  0.0
+actor ID=2149685     :  0.0
+actor ID=2166109     :  0.0
+actor ID=2177227     :  0.0
+actor ID=2197978     :  0.0
+actor ID=225389      :  0.0
+actor ID=225715      :  0.0
+actor ID=2260528     :  0.0
+actor ID=2274023     :  0.0
+actor ID=2275105     :  0.0
+actor ID=2276255     :  0.0
+actor ID=2277581     :  0.0
+actor ID=2284269     :  0.0
+actor ID=2312401     :  0.0
+actor ID=2329949     :  0.0
+actor ID=2338959     :  0.0
+actor ID=2340377     :  0.0
+actor ID=2355195     :  0.0
+actor ID=2369664     :  0.0
+actor ID=238391      :  0.0
+actor ID=2392683     :  0.0
+actor ID=2408311     :  0.0
+actor ID=2411110     :  0.0
+actor ID=2413133     :  0.0
+actor ID=2427896     :  0.0
+actor ID=2430898     :  0.0
+actor ID=2433640     :  0.0
+actor ID=2436599     :  0.0
+actor ID=2452267     :  0.0
+actor ID=2454190     :  0.0
+actor ID=2472056     :  0.0
+actor ID=2472635     :  0.0
+actor ID=2476125     :  0.0
+actor ID=2476829     :  0.0
+actor ID=2481470     :  0.0
+actor ID=2494359     :  0.0
+actor ID=2495559     :  0.0
+actor ID=2520743     :  0.0
+actor ID=2532241     :  0.0
+actor ID=2557253     :  0.0
+actor ID=2558605     :  0.0
+actor ID=2605571     :  0.0
+actor ID=2613454     :  0.0
+actor ID=263611      :  0.0
+actor ID=2647481     :  0.0
+actor ID=2655416     :  0.0
+actor ID=2665816     :  0.0
+actor ID=2681348     :  0.0
+actor ID=2682129     :  0.0
+actor ID=2689164     :  0.0
+actor ID=2706646     :  0.0
+actor ID=2731923     :  0.0
+actor ID=2745228     :  0.0
+actor ID=2746767     :  0.0
+actor ID=2769988     :  0.0
+actor ID=277151      :  0.0
+actor ID=277808      :  0.0
+actor ID=278679      :  0.0
+actor ID=2805154     :  0.0
+actor ID=2805709     :  0.0
+actor ID=2806255     :  0.0
+actor ID=2816072     :  0.0
+actor ID=2819679     :  0.0
+actor ID=2823711     :  0.0
+actor ID=283459      :  0.0
+actor ID=2867955     :  0.0
+actor ID=2870323     :  0.0
+actor ID=2871653     :  0.0
+actor ID=2875249     :  0.0
+actor ID=2899766     :  0.0
+actor ID=290614      :  0.0
+actor ID=2946264     :  0.0
+actor ID=2961547     :  0.0
+actor ID=2963551     :  0.0
+actor ID=2991079     :  0.0
+actor ID=2997171     :  0.0
+actor ID=3017359     :  0.0
+actor ID=3019879     :  0.0
+actor ID=3076964     :  0.0
+actor ID=3097703     :  0.0
+actor ID=3116114     :  0.0
+actor ID=3120951     :  0.0
+actor ID=312142      :  0.0
+actor ID=3121684     :  0.0
+actor ID=313166      :  0.0
+actor ID=3134858     :  0.0
+actor ID=316365      :  0.0
+actor ID=3168573     :  0.0
+actor ID=319124      :  0.0
+actor ID=3191522     :  0.0
+actor ID=322458      :  0.0
+actor ID=3249812     :  0.0
+actor ID=3257358     :  0.0
+actor ID=3292476     :  0.0
+actor ID=3301462     :  0.0
+actor ID=3310162     :  0.0
+actor ID=3339939     :  0.0
+actor ID=3368894     :  0.0
+actor ID=3373136     :  0.0
+actor ID=3373644     :  0.0
+actor ID=3375959     :  0.0
+actor ID=337981      :  0.0
+actor ID=339013      :  0.0
+actor ID=3405985     :  0.0
+actor ID=3413531     :  0.0
+actor ID=3425734     :  0.0
+actor ID=3426176     :  0.0
+actor ID=3426287     :  0.0
+actor ID=3431089     :  0.0
+actor ID=3447369     :  0.0
+actor ID=3464199     :  0.0
+actor ID=3471294     :  0.0
+actor ID=350376      :  0.0
+actor ID=3509936     :  0.0
+actor ID=3513128     :  0.0
+actor ID=3520350     :  0.0
+actor ID=353718      :  0.0
+actor ID=353746      :  0.0
+actor ID=3544742     :  0.0
+actor ID=3558986     :  0.0
+actor ID=3568607     :  0.0
+actor ID=3571456     :  0.0
+actor ID=3599993     :  0.0
+actor ID=3618428     :  0.0
+actor ID=3619702     :  0.0
+actor ID=3632088     :  0.0
+actor ID=3648407     :  0.0
+actor ID=3649447     :  0.0
+actor ID=3704908     :  0.0
+actor ID=3730286     :  0.0
+actor ID=3747431     :  0.0
+actor ID=3756760     :  0.0
+actor ID=3762843     :  0.0
+actor ID=3763705     :  0.0
+actor ID=377600      :  0.0
+actor ID=3781744     :  0.0
+actor ID=3783897     :  0.0
+actor ID=3788413     :  0.0
+actor ID=3805632     :  0.0
+actor ID=3807179     :  0.0
+actor ID=3813562     :  0.0
+actor ID=3825023     :  0.0
+actor ID=3838861     :  0.0
+actor ID=386263      :  0.0
+actor ID=3890203     :  0.0
+actor ID=3898471     :  0.0
+actor ID=3900269     :  0.0
+actor ID=3907210     :  0.0
+actor ID=3951524     :  0.0
+actor ID=396877      :  0.0
+actor ID=406221      :  0.0
+actor ID=408123      :  0.0
+actor ID=416857      :  0.0
+actor ID=450680      :  0.0
+actor ID=455857      :  0.0
+actor ID=458558      :  0.0
+actor ID=45899   :  0.0
+actor ID=461637      :  0.0
+actor ID=462304      :  0.0
+actor ID=470697      :  0.0
+actor ID=485553      :  0.0
+actor ID=498094      :  0.0
+actor ID=499028      :  0.0
+actor ID=511361      :  0.0
+actor ID=515252      :  0.0
+actor ID=520603      :  0.0
+actor ID=523435      :  0.0
+actor ID=542238      :  0.0
+actor ID=562270      :  0.0
+actor ID=565786      :  0.0
+actor ID=581911      :  0.0
+actor ID=591435      :  0.0
+actor ID=602906      :  0.0
+actor ID=606633      :  0.0
+actor ID=607316      :  0.0
+actor ID=608635      :  0.0
+actor ID=61523   :  0.0
+actor ID=618247      :  0.0
+actor ID=621487      :  0.0
+actor ID=623809      :  0.0
+actor ID=630173      :  0.0
+actor ID=630676      :  0.0
+actor ID=642688      :  0.0
+actor ID=651056      :  0.0
+actor ID=665569      :  0.0
+actor ID=665574      :  0.0
+actor ID=68671   :  0.0
+actor ID=692749      :  0.0
+actor ID=702631      :  0.0
+actor ID=713207      :  0.0
+actor ID=715492      :  0.0
+actor ID=718017      :  0.0
+actor ID=719241      :  0.0
+actor ID=720541      :  0.0
+actor ID=721841      :  0.0
+actor ID=733545      :  0.0
+actor ID=749056      :  0.0
+actor ID=755909      :  0.0
+actor ID=755967      :  0.0
+actor ID=782027      :  0.0
+actor ID=810424      :  0.0
+actor ID=830152      :  0.0
+actor ID=831209      :  0.0
+actor ID=837734      :  0.0
+actor ID=861346      :  0.0
+actor ID=872868      :  0.0
+actor ID=878356      :  0.0
+actor ID=901175      :  0.0
+actor ID=938435      :  0.0
+actor ID=951580      :  0.0
+actor ID=952910      :  0.0
+actor ID=96585   :  0.0
+actor ID=973296      :  0.0
+actor ID=987727      :  0.0
+actor ID=99457   :  0.0
+actor ID=1253701     :  -5.18353668132e-18
+actor ID=3811626     :  -1.3129470353e-16
+actor ID=2757658     :  -1.75059604707e-16
+actor ID=724992      :  -2.2172750406e-16
+actor ID=2654869     :  -5.25178814121e-16
+actor ID=2678332     :  -0.0406623546358
+actor ID=3650577     :  -0.0686696581064
+actor ID=486691      :  -0.0899635025951
+actor ID=925935      :  -0.147065314445
+actor ID=133985      :  -0.162649418543
+actor ID=310310      :  -0.17992700519
+actor ID=2672983     :  -0.238709019704
+actor ID=176713      :  -0.358063529556
+actor ID=3251912     :  -0.455029009879
+actor ID=412301      :  -0.716127059112
+
+query>task1b Thriller LDA
+Topic 1  :  {'277151': '0.021', '542238': '0.021', '238391': '0.012', '1480185': '0.012', '2654869': '0.012', '283459': '0.012', '581911': '0.012', '3168573': '0.012', '861346': '0.012', '3805632': '0.012'}
+Topic 2  :  {'1329956': '0.012', '2131839': '0.012', '2427896': '0.012', '608635': '0.012', '2430898': '0.012', '3134858': '0.012', '470697': '0.012', '2520743': '0.012', '2454190': '0.012', '1978197': '0.012'}
+Topic 3  :  {'925935': '0.011', '511361': '0.011', '952910': '0.011', '1072668': '0.011', '3426287': '0.011', '2436599': '0.011', '2055016': '0.011', '3513128': '0.011', '1892087': '0.011', '2678332': '0.011'}
+Topic 4  :  {'3251912': '0.022', '1793283': '0.017', '3310162': '0.012', '1329956': '0.012', '2177227': '0.012', '591435': '0.012', '1342347': '0.012', '925935': '0.012', '2871653': '0.012', '61523': '0.012'}
+query>task1c 283459 TF-IDF
+actor_id: 861346 latent-semantic-dot-product: 18.896816887973763
+actor_id: 313166 latent-semantic-dot-product: 18.896816887973763
+actor_id: 542238 latent-semantic-dot-product: 14.85003436537308
+actor_id: 498094 latent-semantic-dot-product: 0.0
+actor_id: 2476125 latent-semantic-dot-product: 0.0
+actor_id: 1839848 latent-semantic-dot-product: 0.0
+actor_id: 3650577 latent-semantic-dot-product: 0.0
+actor_id: 1892087 latent-semantic-dot-product: 0.0
+actor_id: 172359 latent-semantic-dot-product: 0.0
+actor_id: 630676 latent-semantic-dot-product: 0.0
+query>task1c 283459 SVD
+actor_id: 3762843 latent-semantic-dot-product: 6.9388939039072276e-18
+actor_id: 3747431 latent-semantic-dot-product: 6.9388939039072276e-18
+actor_id: 61523 latent-semantic-dot-product: 6.9388939039072276e-18
+actor_id: 1606367 latent-semantic-dot-product: 6.9388939039072276e-18
+actor_id: 2963551 latent-semantic-dot-product: 5.3495434149970345e-18
+actor_id: 2454190 latent-semantic-dot-product: 5.3495434149970345e-18
+actor_id: 2520743 latent-semantic-dot-product: 5.3495434149970345e-18
+actor_id: 3763705 latent-semantic-dot-product: 5.3495434149970345e-18
+actor_id: 810424 latent-semantic-dot-product: 3.3941879758729976e-21
+actor_id: 1061413 latent-semantic-dot-product: 3.3941879758729976e-21
+query>task1c 283459 PCA
+actor_id: 2963551 latent-semantic-dot-product: 4.447232196961697e-16
+actor_id: 2454190 latent-semantic-dot-product: 4.447232196961695e-16
+actor_id: 2520743 latent-semantic-dot-product: 4.447232196961695e-16
+actor_id: 3763705 latent-semantic-dot-product: 4.447232196961695e-16
+actor_id: 618247 latent-semantic-dot-product: 4.315251754741702e-16
+actor_id: 3373644 latent-semantic-dot-product: 4.3152517547417015e-16
+actor_id: 3191522 latent-semantic-dot-product: 4.3152517547417e-16
+actor_id: 1158040 latent-semantic-dot-product: 4.3152517547417e-16
+actor_id: 3747431 latent-semantic-dot-product: 2.3976552989454465e-16
+actor_id: 61523 latent-semantic-dot-product: 2.3976552989454465e-16
+query>task1c 283459 LDA
+/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/gensim/models/ldamodel.py:535: RuntimeWarning: overflow encountered in exp2
+  perwordbound, np.exp2(-perwordbound), len(chunk), corpus_words
+actor_id: 1335137 latent-semantic-dot-product: 0.46185787792409455
+actor_id: 2454190 latent-semantic-dot-product: 0.4618537824409034
+actor_id: 2961547 latent-semantic-dot-product: 0.46180971944998406
+actor_id: 665574 latent-semantic-dot-product: 0.4617840555083342
+actor_id: 313166 latent-semantic-dot-product: 0.39988981926262746
+actor_id: 861346 latent-semantic-dot-product: 0.39988981656617584
+actor_id: 618247 latent-semantic-dot-product: 0.3913857435095025
+actor_id: 3373644 latent-semantic-dot-product: 0.3913475590254262
+actor_id: 2613454 latent-semantic-dot-product: 0.3913403549895505
+actor_id: 61523 latent-semantic-dot-product: 0.3913279709054246
+query>task1d 4252 TF-IDF
+actor_id:  692749 dot_product:  0.32329583626189934
+actor_id:  17838 dot_product:  0.3232958362618993
+actor_id:  623809 dot_product:  0.3232958362618993
+actor_id:  2991079 dot_product:  0.3232958362618993
+actor_id:  1792455 dot_product:  0.27361206224987034
+actor_id:  3558986 dot_product:  0.27361206224987034
+actor_id:  2436599 dot_product:  0.2736120622498703
+actor_id:  1907368 dot_product:  0.14103256153154167
+actor_id:  1072584 dot_product:  0
+actor_id:  2049627 dot_product:  0
+query>task1d 4252 SVD
+actor_id:  2532241 dot_product:  1.01291280594e-16
+actor_id:  621487 dot_product:  1.01291280594e-16
+actor_id:  702631 dot_product:  1.01291280594e-16
+actor_id:  1292135 dot_product:  1.01291280594e-16
+actor_id:  1892087 dot_product:  1.30660612189e-17
+actor_id:  3807179 dot_product:  1.30660612189e-17
+actor_id:  810424 dot_product:  1.30660612189e-17
+actor_id:  1061413 dot_product:  1.30660612189e-17
+actor_id:  3191522 dot_product:  6.39674185382e-18
+actor_id:  3373644 dot_product:  6.39674185382e-18
+query>task1d 4252 PCA
+actor_id:  2454190 dot_product:  7.10232345948e-15
+actor_id:  2520743 dot_product:  7.10232345948e-15
+actor_id:  2963551 dot_product:  7.10232345948e-15
+actor_id:  3763705 dot_product:  7.10232345948e-15
+actor_id:  2532241 dot_product:  3.78635825499e-15
+actor_id:  621487 dot_product:  3.78635825499e-15
+actor_id:  702631 dot_product:  3.78635825499e-15
+actor_id:  1292135 dot_product:  3.78635825499e-15
+actor_id:  1158040 dot_product:  4.59024328939e-16
+actor_id:  3191522 dot_product:  4.59024328939e-16
+query>task1d 4252 LDA
+actor_id:  692749  dot_product:  0.854837034979
+actor_id:  1792455  dot_product:  0.854835715517
+actor_id:  2436599  dot_product:  0.854833455973
+actor_id:  2991079  dot_product:  0.854831837764
+actor_id:  623809  dot_product:  0.85482902482
+actor_id:  3558986  dot_product:  0.854823117143
+actor_id:  17838  dot_product:  0.854818952697
+actor_id:  3747431  dot_product:  0.539774245313
+actor_id:  1483828  dot_product:  0.539639500131
+actor_id:  1072584  dot_product:  0.2
+query>task2a
+Group 1  :  ['1014988', '1049512', '1061413', '1072668', '1158040', '1167048', '1170039', '1198397', '1206315', '1253701', '1260631', '1273531', '128645', '1290791', '1297720', '1309137', '1335137', '133985', '1348041', '1351913', '1374719', '1402001', '1463669', '1483828', '1542279', '1606367', '1658441', '1671991', '1681146', '1726318', '1747719', '1760831', '1761219', '1767026', '1771318', '1792455', '1793283', '1817602', '1839848', '1853425', '1860883', '1892087', '1900518', '1907368', '1953875', '1983799', '2076540', '2082212', '2083024', '2108815', '2166109', '2275105', '2277581', '2284269', '2329949', '2392683', '2411110', '2430898', '2433640', '2436599', '2454190', '2472635', '2476125', '2481470', '2494359', '2532241', '2605571', '2681348', '2682129', '2706646', '2731923', '2746767', '2757658', '277808', '278679', '2816072', '2899766', '2946264', '2963551', '2997171', '3097703', '3120951', '3134858', '316365', '3257358', '3339939', '3368894', '3373136', '3375959', '337981', '339013', '3405985', '3413531', '3425734', '3447369', '3471294', '3509936', '353718', '353746', '3544742', '3558986', '3568607', '3571456', '3599993', '3619702', '3632088', '3648407', '3650577', '3747431', '3756760', '3762843', '377600', '3783897', '3788413', '3807179', '3811626', '3838861', '408123', '416857', '461637', '462304', '470697', '485553', '499028', '515252', '542238', '562270', '565786', '581911', '602906', '606633', '623809', '630676', '651056', '692749', '702631', '718017', '719241', '720541', '721841', '724992', '749056', '755909', '755967', '830152', '831209', '837734', '861346', '878356', '901175', '925935', '938435', '96585', '973296']
+Group 2  :  ['1292135', '2149685']
+Group 3  :  ['1021526', '1060304', '1069742', '1072584', '1190192', '1216582', '1229838', '1323070', '1329956', '1342347', '1395789', '1405458', '1480185', '1584763', '1637467', '1698048', '172359', '1739265', '176713', '1781042', '17838', '1808442', '1823127', '1856129', '1929540', '1978197', '2049627', '2055016', '2102051', '2125863', '2131839', '2145993', '2177227', '2197978', '225389', '225715', '2260528', '2274023', '2276255', '2312401', '2338959', '2340377', '2355195', '2369664', '238391', '2408311', '2413133', '2427896', '2452267', '2472056', '2476829', '2495559', '2520743', '2557253', '2558605', '2613454', '263611', '2647481', '2654869', '2655416', '2665816', '2672983', '2678332', '2689164', '2745228', '2769988', '277151', '2805154', '2805709', '2806255', '2819679', '2823711', '283459', '2867955', '2870323', '2871653', '2875249', '290614', '2961547', '2991079', '3017359', '3019879', '3076964', '310310', '3116114', '312142', '3121684', '313166', '3168573', '319124', '3191522', '322458', '3249812', '3251912', '3292476', '3301462', '3310162', '3373644', '3426176', '3426287', '3431089', '3464199', '350376', '3513128', '3520350', '3618428', '3649447', '3704908', '3730286', '3763705', '3781744', '3805632', '3813562', '3825023', '386263', '3890203', '3898471', '3900269', '3907210', '3951524', '396877', '406221', '412301', '450680', '455857', '458558', '45899', '486691', '498094', '511361', '520603', '523435', '591435', '607316', '608635', '61523', '618247', '621487', '630173', '642688', '665569', '665574', '68671', '713207', '715492', '733545', '782027', '810424', '872868', '951580', '952910', '987727', '99457']
+query>task2b
+Group 1  :  ['1060304', '1069742', '1216582', '1253701', '1260631', '1273531', '1698048', '172359', '1726318', '1761219', '1767026', '1781042', '2055016', '2102051', '225389', '2260528', '2408311', '263611', '2746767', '283459', '2961547', '2991079', '3116114', '3619702', '3649447', '3756760', '377600', '938435']
+Group 2  :  ['1021526', '1049512', '1072584', '1072668', '1158040', '1190192', '1229838', '1297720', '1309137', '1335137', '133985', '1351913', '1402001', '1405458', '1463669', '1658441', '1739265', '1747719', '1771318', '17838', '1792455', '1856129', '1929540', '2083024', '225715', '2274023', '2275105', '2284269', '2329949', '2369664', '2392683', '2411110', '2413133', '2430898', '2436599', '2452267', '2454190', '2472056', '2476125', '2494359', '2520743', '2532241', '2613454', '2665816', '2681348', '2706646', '2745228', '2757658', '2769988', '2875249', '2899766', '290614', '2963551', '2997171', '3017359', '3019879', '3076964', '310310', '312142', '3121684', '3168573', '3249812', '3301462', '3310162', '3339939', '3373644', '337981', '3405985', '3413531', '3426176', '3426287', '3447369', '3464199', '350376', '353746', '3544742', '3558986', '3599993', '3618428', '3632088', '3648407', '3650577', '3704908', '3763705', '3781744', '3783897', '3805632', '3807179', '3811626', '3838861', '386263', '3898471', '416857', '450680', '45899', '462304', '470697', '485553', '486691', '498094', '511361', '515252', '520603', '523435', '565786', '591435', '606633', '621487', '623809', '630676', '642688', '651056', '665574', '702631', '718017', '719241', '782027', '810424', '830152', '831209', '861346', '872868', '925935', '951580', '952910']
+Group 3  :  ['1014988', '1061413', '1167048', '1170039', '1198397', '1206315', '128645', '1290791', '1292135', '1323070', '1329956', '1342347', '1348041', '1374719', '1395789', '1480185', '1483828', '1542279', '1584763', '1606367', '1637467', '1671991', '1681146', '1760831', '176713', '1793283', '1808442', '1817602', '1823127', '1839848', '1853425', '1860883', '1892087', '1900518', '1907368', '1953875', '1978197', '1983799', '2049627', '2076540', '2082212', '2108815', '2125863', '2131839', '2145993', '2149685', '2166109', '2177227', '2197978', '2276255', '2277581', '2312401', '2338959', '2340377', '2355195', '238391', '2427896', '2433640', '2472635', '2476829', '2481470', '2495559', '2557253', '2558605', '2605571', '2647481', '2654869', '2655416', '2672983', '2678332', '2682129', '2689164', '2731923', '277151', '277808', '278679', '2805154', '2805709', '2806255', '2816072', '2819679', '2823711', '2867955', '2870323', '2871653', '2946264', '3097703', '3120951', '313166', '3134858', '316365', '319124', '3191522', '322458', '3251912', '3257358', '3292476', '3368894', '3373136', '3375959', '339013', '3425734', '3431089', '3471294', '3509936', '3513128', '3520350', '353718', '3568607', '3571456', '3730286', '3747431', '3762843', '3788413', '3813562', '3825023', '3890203', '3900269', '3907210', '3951524', '396877', '406221', '408123', '412301', '455857', '458558', '461637', '499028', '542238', '562270', '581911', '602906', '607316', '608635', '61523', '618247', '630173', '665569', '68671', '692749', '713207', '715492', '720541', '721841', '724992', '733545', '749056', '755909', '755967', '837734', '878356', '901175', '96585', '973296', '987727', '99457']
+query>task2c
+Top 5 latent sementics for Actor :
+[[ -5.33214220e-190   1.20578631e-003  -4.27585168e-190  -1.56157318e-072
+    1.20294945e-132]
+ [ -1.26080835e-293   3.03241817e-126  -1.07532904e-312  -3.87053047e-176
+   -1.15737632e-199]
+ [  1.05969055e-005  -3.94736708e-188   3.53578248e-002  -2.01992845e-130
+    1.54427533e-170]
+ ..., 
+ [  1.06629550e-119   9.38156928e-071   5.19498986e-192   3.27339931e-002
+    1.28552952e-131]
+ [  0.00000000e+000   0.00000000e+000   0.00000000e+000   0.00000000e+000
+    0.00000000e+000]
+ [  0.00000000e+000   0.00000000e+000   0.00000000e+000   0.00000000e+000
+    0.00000000e+000]]
+Top 5 latent sementics for Movie :
+[[  3.79229100e+000   2.74395644e-099  -9.71442003e-036  -4.23305117e-063
+    9.87178101e-132]
+ [  2.30421823e-003   1.66724401e-102  -5.90253851e-039  -2.57202668e-066
+    5.99815196e-135]
+ [  1.22344808e-003   8.85240149e-103   4.32577307e-032  -1.36564371e-066
+    3.18477974e-135]
+ [  5.36205519e+000   3.87977765e-099  -1.37355641e-035  -5.98526167e-063
+    1.39580624e-131]
+ [  3.79080034e+000   2.74287786e-099  -9.71060151e-036  -4.23138725e-063
+    9.86790063e-132]
+ [  7.27405782e-003   5.26322949e-102  -1.86333941e-038  -8.11948738e-066
+    1.89352309e-134]
+ [  1.80805228e-003   1.30823734e-102   3.09186262e-032  -2.01819370e-066
+    4.70657344e-135]
+ [  7.00419661e-004  -4.38869152e-095  -1.79421115e-039   6.77035374e-059
+   -1.57889538e-127]
+ [  0.00000000e+000   0.00000000e+000   0.00000000e+000   0.00000000e+000
+    0.00000000e+000]
+ [  0.00000000e+000   0.00000000e+000   0.00000000e+000   0.00000000e+000
+    0.00000000e+000]
+ [  0.00000000e+000   0.00000000e+000   0.00000000e+000   0.00000000e+000
+    0.00000000e+000]
+ [ -2.74195597e-113  -1.97727741e-086   7.02385761e-149   3.05030952e-050
+   -7.11354207e-119]
+ [ -1.49368470e-173   2.34542299e-111  -1.14859514e-163   1.66166076e-110
+   -6.02766614e-042]
+ [  0.00000000e+000   0.00000000e+000   0.00000000e+000   0.00000000e+000
+    0.00000000e+000]
+ [  7.54279800e-169  -1.18438997e-106   5.80016726e-159  -8.39104228e-106
+    3.04384641e-037]
+ [  0.00000000e+000   0.00000000e+000   0.00000000e+000   0.00000000e+000
+    0.00000000e+000]
+ [  0.00000000e+000   0.00000000e+000   0.00000000e+000   0.00000000e+000
+    0.00000000e+000]
+ [  0.00000000e+000   0.00000000e+000   0.00000000e+000   0.00000000e+000
+    0.00000000e+000]
+ [ -2.73852499e-098   5.02746541e+000   7.01506873e-134   3.04649270e-035
+   -2.15760460e-069]
+ [  4.39691210e-101   5.78769399e-002  -1.12632314e-136  -4.89137789e-038
+   -2.48386695e-071]
+ [  2.56092801e-102   3.37097202e-003  -6.56013220e-138  -2.84892360e-039
+   -1.44669811e-072]
+ [  3.74628803e-101   4.93127182e-002  -9.59657776e-137  -4.16758626e-038
+   -2.11632182e-071]
+ [  3.82112939e-101   5.02978616e-002  -9.78829311e-137  -4.25084409e-038
+   -2.15860058e-071]
+ [  3.54180204e-101   4.66210512e-002  -9.07276173e-137  -3.94010428e-038
+   -2.00080530e-071]
+ [  5.41855746e-101   7.13249475e-002  -1.38803017e-136  -6.02791495e-038
+    3.65245753e-069]
+ [  2.08083558e-101   2.73902214e-002  -5.33031637e-137  -2.31484117e-038
+   -1.17548830e-071]
+ [ -2.31458049e-099   2.22857630e-003   5.92908272e-135   2.57487245e-036
+    5.71535668e-069]
+ [  4.92372615e-101   6.48114395e-002  -1.26127304e-136  -5.47743614e-038
+   -2.78147035e-071]
+ [ -4.86498578e-036  -3.52011728e-135   1.99655017e+000   5.43042022e-099
+    3.80161604e-122]
+ [  3.81947620e-099   5.02761005e+000  -9.78405825e-135  -4.24900498e-036
+   -2.15766667e-069]
+ [ -3.45387540e-036  -2.49909189e-135   1.41744207e+000   3.85530311e-099
+    2.69894070e-122]
+ [ -4.97638873e-036  -3.60072418e-135   2.04226903e+000   5.55477101e-099
+    3.88866896e-122]
+ [ -1.37182945e-036  -9.92603223e-136   5.62987531e-001   1.53127075e-099
+    1.07198029e-122]
+ [ -8.61842254e-036  -6.23596028e-135   3.53693005e+000   9.62010129e-099
+    6.73464168e-122]
+ [ -5.23249514e-036  -3.78603297e-135   2.14737300e+000   5.84064347e-099
+    4.08879662e-122]
+ [ -6.02149904e-036  -4.35692595e-135   2.47117371e+000   6.72134958e-099
+    4.70534310e-122]
+ [ -5.15402153e-036  -3.72925247e-135   2.11516807e+000   5.75304923e-099
+    4.02747547e-122]
+ [ -6.16004996e-036  -4.45717609e-135   2.52803429e+000   6.87600362e-099
+    4.81361091e-122]
+ [  7.12439345e-037   5.15493809e-136  -2.92379251e-001  -7.95242823e-100
+   -5.56717113e-123]
+ [  1.30852415e-131  -2.05467903e-069   1.00621268e-121  -1.45567752e-068
+    5.28046297e+000]
+ [ -2.04788705e-129   3.25502229e-074  -1.59404200e-126   2.27818733e-066
+   -8.36530881e-005]
+ [  8.81313620e-134  -1.38386182e-071   6.77701618e-124  -9.80423956e-071
+    3.55648302e-002]
+ [  1.17151621e-133  -1.83954555e-071   9.00858003e-124  -1.30326200e-070
+    4.72757642e-002]
+ [  1.29973685e-133  -2.04088098e-071   9.99455527e-124  -1.44590203e-070
+    5.24500240e-002]
+ [  1.30850954e-131  -2.05465609e-069   1.00620144e-121  -1.45566127e-068
+    5.28040401e+000]
+ [ -2.04775282e-129   1.45935714e-068   1.03059198e-123   2.27803801e-066
+    5.40840214e-002]
+ [  1.58656315e-133  -2.49126318e-071   1.22001566e-123  -1.76498409e-070
+    6.40247101e-002]
+ [  3.35548088e-134  -5.26886431e-072   2.58025607e-124  -3.73282991e-071
+    1.35408219e-002]
+ [  8.63519998e-134   4.67723052e-067   6.64018899e-124  -9.60629307e-071
+    3.48467803e-002]
+ [  1.08467321e-044   7.84827971e-144   4.90732969e-031  -1.21073968e-107
+    9.34400923e-153]
+ [ -8.54679078e-067  -6.18413029e-166   3.50753268e-031   9.54014411e-130
+    6.67866636e-153]
+ [  2.48410424e-041   1.79740264e-140  -6.36333868e-077  -2.77282001e-104
+    6.46641650e-173]
+ [  4.14350871e-157  -6.50624633e-095   3.18622394e-147  -4.60947738e-094
+    1.67208563e-025]
+ [  7.40490101e-155  -1.16273703e-092   5.69412894e-145  -8.23763774e-092
+    2.98819899e-023]
+ [  0.00000000e+000   0.00000000e+000   0.00000000e+000   0.00000000e+000
+    0.00000000e+000]
+ [  8.86457877e-166   1.16685228e-066  -2.27077093e-201  -9.86146723e-103
+   -5.00770398e-136]
+ [ -6.90451318e-067   8.39356146e-067   2.83355545e-031  -7.09368549e-103
+   -3.60221012e-136]
+ [  0.00000000e+000   0.00000000e+000   0.00000000e+000   0.00000000e+000
+    0.00000000e+000]
+ [  0.00000000e+000   0.00000000e+000   0.00000000e+000   0.00000000e+000
+    0.00000000e+000]
+ [  0.00000000e+000   0.00000000e+000   0.00000000e+000   0.00000000e+000
+    0.00000000e+000]
+ [  3.25383319e-165   4.28304918e-066  -8.33509408e-201  -3.61975117e-102
+   -1.83812833e-135]
+ [  0.00000000e+000   0.00000000e+000   0.00000000e+000   0.00000000e+000
+    0.00000000e+000]
+ [  4.92870948e-165   6.48770355e-066  -1.26254958e-200  -5.48297988e-102
+   -2.78428549e-135]
+ [  0.00000000e+000   0.00000000e+000   0.00000000e+000   0.00000000e+000
+    0.00000000e+000]
+ [  0.00000000e+000   0.00000000e+000   0.00000000e+000   0.00000000e+000
+    0.00000000e+000]
+ [ -7.02505669e-144   1.93562680e-067   1.79955471e-179   7.81507708e-081
+    5.67167962e-075]
+ [  1.47049600e-166   1.93562680e-067  -3.76685645e-202  -1.63586432e-103
+   -8.30700349e-137]
+ [ -2.26723722e-068  -1.64048597e-167   9.30455519e-033   2.53074755e-131
+   -1.25590256e-151]
+ [  0.00000000e+000   0.00000000e+000   0.00000000e+000   0.00000000e+000
+    0.00000000e+000]
+ [ -6.89946765e-143  -4.97533938e-116   1.76738353e-178   7.67536460e-080
+   -1.79120813e-148]
+ [ -3.17205328e-068  -2.29517620e-167   1.30178459e-032   3.54072613e-131
+    2.47871816e-154]
+ [  0.00000000e+000   0.00000000e+000   0.00000000e+000   0.00000000e+000
+    0.00000000e+000]
+ [  0.00000000e+000   0.00000000e+000   0.00000000e+000   0.00000000e+000
+    0.00000000e+000]
+ [ -4.36814127e-128  -3.16061963e-227   1.79264927e-092   4.87582981e-191
+    3.41336987e-214]
+ [  0.00000000e+000   0.00000000e+000   0.00000000e+000   0.00000000e+000
+    0.00000000e+000]
+ [  0.00000000e+000   0.00000000e+000   0.00000000e+000   0.00000000e+000
+    0.00000000e+000]
+ [ -2.61760180e-063  -1.88760321e-036   6.70530909e-099   2.91197078e+000
+   -6.79092614e-069]
+ [ -2.97814959e-063  -2.14760119e-036   7.62889664e-099   3.31306488e+000
+   -7.72630656e-069]
+ [ -9.30402986e-065  -6.70931563e-038   2.38334173e-100   1.03503379e-001
+   -2.41377354e-070]
+ [ -8.16163320e-064  -5.88551342e-037   2.09070277e-099   9.07947336e-001
+   -2.11739875e-069]
+ [ -1.47205834e-063  -1.06152970e-036   3.77085856e-099   1.63760235e+000
+   -3.81900695e-069]
+ [ -3.66666332e-063  -2.84890994e-035   9.39260925e-099   4.07900714e+000
+   -9.51253922e-069]
+ [ -2.86666170e-063  -2.06720512e-036   7.34330667e-099   3.18903933e+000
+   -7.43707002e-069]
+ [ -1.52576105e-063  -1.10025576e-036   3.90842468e-099   1.69734434e+000
+   -3.95832958e-069]
+ [ -2.72171116e-064  -2.10588708e-037   6.97199802e-100   3.02778802e-001
+   -6.97670998e-070]
+ [ -1.77289281e-066  -1.27846725e-039   4.54148309e-102   1.97226793e-003
+   -4.59947123e-072]]
+Top 5 latent sementics for Year :
+[[  2.24309223e-120   3.50589908e-090   3.19272994e-160   4.70737270e-052
+    1.34457899e-038]
+ [  5.55519787e-105   1.18627135e+000   7.90705187e-145   1.16581862e-036
+    4.58083707e-072]
+ [  9.05705903e-041   2.16835383e-147   2.23979991e+000   2.91144993e-109
+    7.56284489e-182]
+ [  5.97697804e-137   1.95830423e-070   8.50739730e-177   1.25433377e-068
+    2.33319727e+000]
+ [  8.22359954e-043   6.72955440e-070   4.01343079e-032   5.79603240e-097
+    2.64010219e-024]
+ [  1.02516081e-151   4.08543341e-069   1.45917389e-191   2.15141132e-083
+    3.20766298e-078]
+ [  1.35023631e-073   1.57365681e-120   8.72189975e-034   2.11294989e-082
+    2.11684431e-154]
+ [  2.38795376e-069  -6.57638543e-037   3.39892019e-109   1.91857078e+000
+    1.04409049e-073]
+ [  2.71761951e+000   4.16253185e-099   2.89824933e-033   5.58903389e-061
+    1.45181945e-133]]
+Actor Groupings:
+Group 1  :  ['1060304', '1072584', '1167048', '1170039', '1190192', '1216582', '133985', '1351913', '1374719', '1463669', '1480185', '1542279', '1584763', '1739265', '1747719', '1760831', '1761219', '176713', '1781042', '1853425', '1860883', '2049627', '2076540', '2082212', '2083024', '2145993', '2177227', '2277581', '2340377', '238391', '2408311', '2413133', '2430898', '2433640', '2452267', '2472635', '2476829', '2655416', '2672983', '2678332', '2682129', '2689164', '2706646', '2745228', '278679', '2819679', '2867955', '2870323', '2875249', '2946264', '310310', '3134858', '319124', '322458', '3251912', '3310162', '3373136', '339013', '3405985', '3413531', '3425734', '3426287', '3447369', '350376', '3509936', '3513128', '3520350', '353746', '3618428', '3619702', '3649447', '3650577', '3704908', '3730286', '3783897', '3805632', '3825023', '3838861', '3907210', '408123', '412301', '416857', '450680', '461637', '462304', '486691', '499028', '515252', '523435', '565786', '581911', '607316', '630676', '651056', '665574', '718017', '720541', '733545', '749056', '872868', '878356', '925935', '951580', '952910', '987727', '99457']
+Group 2  :  ['1014988', '1021526', '1061413', '1069742', '1253701', '1260631', '128645', '1290791', '1342347', '1483828', '1671991', '1698048', '1792455', '1793283', '1892087', '1907368', '1929540', '1983799', '2131839', '2329949', '2355195', '2369664', '2436599', '2472056', '2558605', '263611', '2665816', '2681348', '277808', '2805709', '2816072', '283459', '290614', '2961547', '313166', '316365', '3339939', '3426176', '3431089', '353718', '3558986', '3599993', '377600', '3807179', '3813562', '3898471', '3900269', '396877', '470697', '542238', '602906', '630173', '713207', '810424', '861346', '938435']
+Group 3  :  ['1049512', '1158040', '1198397', '1206315', '1229838', '1297720', '1309137', '1348041', '1405458', '172359', '1817602', '1856129', '1900518', '1953875', '2055016', '2108815', '2166109', '225389', '225715', '2274023', '2276255', '2392683', '2454190', '2520743', '2532241', '2605571', '2647481', '2654869', '2757658', '2769988', '277151', '2823711', '2963551', '3076964', '3120951', '3168573', '3191522', '3373644', '3464199', '3632088', '3763705', '3811626', '406221', '455857', '485553', '498094', '520603', '618247', '665569', '68671', '724992', '830152', '96585']
+Group 4  :  ['1292135', '1323070', '1395789', '1402001', '1637467', '1658441', '1767026', '1771318', '1823127', '1978197', '2102051', '2125863', '2275105', '2312401', '2338959', '2495559', '2806255', '2871653', '3017359', '3019879', '3097703', '312142', '3249812', '3292476', '3301462', '3368894', '3375959', '337981', '3571456', '3648407', '3756760', '3781744', '3788413', '458558', '45899', '562270', '606633', '608635', '621487', '642688', '702631', '715492', '755909', '782027', '831209', '837734', '901175', '973296']
+Group 5  :  ['1072668', '1273531', '1329956', '1335137', '1606367', '1681146', '1726318', '17838', '1808442', '1839848', '2149685', '2197978', '2260528', '2284269', '2411110', '2427896', '2476125', '2481470', '2494359', '2557253', '2613454', '2731923', '2746767', '2805154', '2899766', '2991079', '2997171', '3116114', '3121684', '3257358', '3471294', '3544742', '3568607', '3747431', '3762843', '386263', '3890203', '3951524', '511361', '591435', '61523', '623809', '692749', '719241', '721841', '755967']
+Movie Groupings:
+Group 1  :  ['3189', '3207', '3216', '3233', '3239', '3323', '3366', '3467', '3854', '3906', '3961', '4068', '4076', '4132', '4152', '6166', '8860', '8901', '8935', '8939', '9417', '9420', '9438', '9441', '9739', '9779', '9782', '9807', '9816']
+Group 2  :  ['4252', '4354', '4681', '4869', '4999', '5000', '5044', '5076', '5078', '5123', '5171', '8903', '9419', '9432', '9443', '9448']
+Group 3  :  ['5161', '5324', '5914', '5915', '5959', '6057', '6058', '6097', '6163', '7755', '8779', '8929', '9514', '9775', '9797']
+Group 4  :  ['4057', '4064', '6425', '9753', '9818', '9821', '10059', '10143', '10156', '10157', '10178', '10227', '10234', '10241']
+Group 5  :  ['4072', '6185', '7062', '7149', '7202', '7212', '7232', '7235', '7247', '7320', '8862', '8865']
+Year Groupings:
+Group 1  :  ['2008']
+Group 2  :  ['2001', '2005']
+Group 3  :  ['2002', '2006']
+Group 4  :  ['2007']
+Group 5  :  ['2000', '2003', '2004']
+query>task2d
+Top 5 latent sementics for Tag :
+[[ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]
+ [ 0.11325643  0.6904967   0.84132677 -0.04163916 -0.67037687]]
+Top 5 latent sementics for Movie :
+[[ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -7.69865002  -5.14514106  -2.42389612  -5.91943439  -5.64030531]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -7.69865002  -5.14514106  -2.42389612  -5.91943439  -5.64030531]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -7.69865002  -5.14514106  -2.42389612  -5.91943439  -5.64030531]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -7.69865002  -5.14514106  -2.42389612  -5.91943439  -5.64030531]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -9.05921231  -5.12598576  -1.67173636 -21.36857996  -3.96830651]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -7.69865002  -5.14514106  -2.42389612  -5.91943439  -5.64030531]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [  5.84272193   1.60431474   1.30502718  10.7865691    3.09974751]
+ [ -1.1706778   -2.53472732  -0.71176576   4.01776475  -1.63670662]
+ [ -1.16908259  -2.53816501  -0.71176182   4.00816388  -1.63844792]
+ [ -1.16908259  -2.53816501  -0.71176182   4.00816388  -1.63844792]]
+Top 5 latent sementics for Rating :
+[[  0.           0.          -0.           0.           0.        ]
+ [  0.           0.          -0.           0.           0.        ]
+ [ 24.25763056   0.04775989 -24.81243941  14.03751314  -8.3941221 ]
+ [ 24.69860129  -0.27561884 -26.41438294  15.28124865  -9.54133418]
+ [ -8.97857881  -0.59731215   7.72121704  -5.92916035   2.18361226]
+ [ 18.27188233  -1.09828333 -20.89091311  10.16759025  -8.4839551 ]]
+Tag Groups
+Group 1  :  []
+Group 2  :  []
+Group 3  :  ['1001', '1007', '1022', '1028', '1075', '1085', '1096', '111', '1112', '1115', '1121', '1126', '1127', '1128', '113', '127', '155', '159', '170', '180', '186', '19', '193', '230', '232', '244', '255', '261', '268', '285', '305', '309', '327', '331', '333', '350', '361', '374', '377', '397', '406', '428', '456', '484', '485', '489', '492', '501', '505', '509', '554', '623', '63', '632', '64', '65', '672', '682', '687', '719', '729', '730', '731', '732', '762', '784', '792', '807', '824', '844', '849', '86', '874', '887', '901', '903', '926', '97', '989']
+Group 4  :  []
+Group 5  :  []
+Movie Groups
+Group 1  :  []
+Group 2  :  []
+Group 3  :  ['10059', '10156', '3189', '3207', '3854', '3906', '4064', '4068', '4072', '4869', '4999', '5000', '5044', '5076', '5078', '5324', '5914', '5915', '6058', '6097', '7062', '7149', '7202', '7232', '7320', '8862', '8865', '9417', '9420', '9432', '9441', '9443', '9448', '9779']
+Group 4  :  ['10143', '10157', '10178', '10227', '10234', '10241', '3216', '3233', '3239', '3323', '3366', '3467', '3961', '4057', '4076', '4132', '4152', '4252', '4354', '4681', '5123', '5161', '5171', '5959', '6057', '6163', '6166', '6185', '6425', '7212', '7235', '7247', '7755', '8779', '8860', '8901', '8903', '8929', '8935', '8939', '9419', '9438', '9514', '9739', '9753', '9775', '9782', '9797', '9807', '9816', '9818', '9821']
+Group 5  :  []
+ Rating Groups:
+Group 1  :  [0, 1, 2, 3, 5]
+Group 2  :  []
+Group 3  :  [4]
+Group 4  :  []
+Group 5  :  []
+query>task3a 1014988
+10 most related actors are:
+Oldman, Gary
+Liotta, Ray
+Moore, Julianne
+Hounsou, Djimon
+Ice Cube
+Irons, Jeremy
+Isaacs, Jason
+Jackman, Hugh
+Jackson, Roger
+Jackson, Samuel L.
+query>task3b 1049512
+10 most related actors are:
+Flanagan, Tommy
+Beesley, Max
+Cook, Dane
+Ashker, John
+Morgan, Tracy
+Williams, Katt
+Devine, Loretta
+Chaplin, Carmen
+Epps, Mike
+Belle, Camilla
+query>task4 450
+recommend movies based on user: 450  watch history
+Sinbad: Legend of the Seven Seas
+Sweet November
+What a Girl Wants
+Dawn of the Dead
+Pitch Black
+Godsend
+Against the Ropes
+Zodiac
+Scream 3
+Trois
+query>

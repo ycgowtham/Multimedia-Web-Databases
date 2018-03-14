@@ -1,0 +1,106 @@
+Using mxnet backend.
+loading csv data into memory...
+Currently processing object genome-tags.csv: 100.000%
+File genome-tags.csv loaded in 0.004574298858642578 seconds
+Currently processing object imdb-actor-info.csv: 100.000%
+File imdb-actor-info.csv loaded in 0.003111124038696289 seconds
+Currently processing object mlmovies.csv: 100.000%
+File mlmovies.csv loaded in 0.0012018680572509766 seconds
+Currently processing object mlratings.csv: 100.000%
+File mlratings.csv loaded in 4.342087984085083 seconds
+Currently processing object mltags.csv: 100.000%
+File mltags.csv loaded in 0.040051937103271484 seconds
+Currently processing object movie-actor.csv: 100.000%
+File movie-actor.csv loaded in 0.003492116928100586 seconds
+loading completed!
+preprocessing data...
+building vectors
+Building standard movie-tag vector
+Currently processing object movie-tag vector: 100.000%
+Building tf-idf movie-tag vector
+Currently processing object movie-tag vector: 100.000%
+building TMR tensor
+Scanning ratings...
+Currently processing object mlratings_table: 100.000%
+Calculating averages...
+Currently processing object movies_ratings: 100.000%
+Generating tag indices...
+Currently processing object tags: 100.000%
+Generating movie indices...
+Currently processing object movies: 100.000%
+Generating tensor...
+Currently processing object tensor: 100.000%
+creating list
+preprocessing completed!
+query>p3_task3 3 4
+Performing SVD on movie-tag matrix
+Creating hash table...
+Percent: [------------------------------------------------> ] 99%
+search for the movieid and range, "exit" to quit
+search>9420 8
+1 Antitrust - similarity 1.0548800067401548e-16
+2 Godsend - similarity 7.344348126679171e-17
+3 Epic Movie - similarity 7.288197442213289e-17
+4 Stolen Summer - similarity 2.599597508079304e-17
+5 Dungeons & Dragons - similarity 2.549906648442872e-17
+6 Shanghai Knights - similarity 1.7190640141120262e-17
+7 First Sunday - similarity 7.111770385296647e-18
+8 Dawn of the Dead - similarity 6.2743566022363124e-18
+total movies considered 26
+Do you want to improve the result? <y/n>y
+
+Please input relevant entries,between 1 and 8 separated by commas (e.g. 1,2,3) or 'q' to skip:
+1, 2, 4
+
+Please input irrelevant entries, between 1 and 8 separated by commas (e.g. 1,2,3) or 'q' to skip:
+3, 5, 8
+1 Epic Movie - similarity 0.49999999999999994
+2 Harold & Kumar Escape from Guantanamo Bay - similarity 2.463307335887066e-16
+3 Daredevil - similarity 1.8735013540549517e-16
+4 Boogeyman - similarity 1.8041124150158794e-16
+5 Ultraviolet - similarity 1.6002824065886045e-16
+6 Agent Cody Banks 2: Destination London - similarity 1.5515405900137879e-16
+7 The Premonition - similarity 1.496198998029996e-16
+8 Wild Hogs - similarity 1.474514954580286e-16
+total movies considered 27
+Do you want to improve the result? <y/n>n
+search for the movieid and range, "exit" to quit
+search>9428 30
+No tags for such movie
+search for the movieid and range, "exit" to quit
+search>9420 30
+1 Antitrust - similarity 1.0548800067401548e-16
+2 Godsend - similarity 7.344348126679171e-17
+3 Epic Movie - similarity 7.288197442213289e-17
+4 Breach - similarity 3.997664921011152e-17
+5 Gods and Generals - similarity 2.890642397679198e-17
+6 Stolen Summer - similarity 2.599597508079304e-17
+7 Dungeons & Dragons - similarity 2.549906648442872e-17
+8 Shanghai Knights - similarity 1.7190640141120262e-17
+9 First Sunday - similarity 7.111770385296647e-18
+10 Dawn of the Dead - similarity 6.2743566022363124e-18
+11 Charlie and the Chocolate Factory - similarity 3.0605533079551307e-18
+12 Swimming Pool - similarity 1.5799864409876396e-18
+13 Untraceable - similarity 2.4244121872311634e-19
+14 Erin Brockovich - similarity -1.3453882006144954e-18
+15 Hot Fuzz - similarity -1.745941003587578e-18
+16 Swordfish - similarity -2.6684402494359174e-18
+17 Hannibal - similarity -2.8835576667864774e-18
+18 Harold & Kumar Escape from Guantanamo Bay - similarity -3.4486032179220446e-18
+19 Series 7: The Contenders - similarity -5.887466701834007e-18
+20 When a Stranger Calls - similarity -7.078720648318074e-18
+21 Cradle 2 the Grave - similarity -1.0262750063781503e-17
+22 Freedom Writers - similarity -1.641234373953727e-17
+23 Robots - similarity -3.314537521514674e-17
+24 Son of the Mask - similarity -4.871326083689247e-17
+25 Sweet November - similarity -4.983134775685895e-17
+26 Rollerball - similarity -7.259307942570164e-17
+27 15 Minutes - similarity -7.506647956612278e-17
+28 Nim's Island - similarity -7.876377469878877e-17
+29 Madea's Family Reunion - similarity -1.0176174803500852e-16
+30 Against the Ropes - similarity -1.2034463505122345e-16
+total movies considered 34
+Do you want to improve the result? <y/n>n
+search for the movieid and range, "exit" to quit
+search>exit
+query>

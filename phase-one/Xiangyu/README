@@ -1,0 +1,41 @@
+Readme
+
+System requirements/installation and execution instructions
+
+0. Running environment, any machine/OS with Python3.0 installed.
+1. Put all csv data file under the “data” folder.
+2. Go to the “Code” folder using your command line tool. (Shell or CMD) 
+3. Execute the program with “python project1.py”.
+4. Wait for around 20 seconds, you will see the following information during this progress.
+“loading csv data into memroy...
+loading completed!
+preprocessing data...
+preprocessing completed!”
+5. After you see a “query>”, you can running your query now.
+6. How to run each query command, please refer the section “Interface Specifications” for more detail.
+
+Interface specifications
+
+Our program created a command line interface (CLI) to interact with users. It supports four types queries, “print_actor_vector”, “print_genre_vector”, “print_user_vector”, and “differentiate_genre”. Each command’s parameters separated by space.
+
+1.  print_actor_vector actor_id model
+actor_id, a valid actor id, without quote, e.g. 1582699
+model, a valid model name in small letters without the quote, either tf or tf-idf
+example query
+print_actor_vector 1582699 tf-idf
+2.  print_genre_vector genre model
+genre, a valid genre name, without quote, e.g. Thriller
+model, a valid model name in small letters without the quote, either tf or tf-idf
+example query
+print_ genre _vector Thriller tf-idf
+3.  print_user_vector user_id model
+user_id, a valid user id, without quote, e.g. 146
+model, a valid model name in small letters without the quote, either tf or tf-idf
+example query
+print_ user _vector 146 tf-idf
+4.  differentiate_genre genre1 genre2 model
+genre1, a valid genre name, without quote, e.g. Thriller
+genre2, a valid genre name, without quote, e.g. Romance
+model, a valid model name in small letters without the quote, it can be tf-idf-diff, p-diff1 or p-diff2.
+example query
+differentiate_genre Thriller Romance tf-idf-diff

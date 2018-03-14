@@ -1,0 +1,75 @@
+Using mxnet backend.
+loading csv data into memory...
+Currently processing object genome-tags.csv: 100.000%
+File genome-tags.csv loaded in 0.005117893218994141 seconds
+Currently processing object imdb-actor-info.csv: 100.000%
+File imdb-actor-info.csv loaded in 0.004144906997680664 seconds
+Currently processing object mlmovies.csv: 100.000%
+File mlmovies.csv loaded in 0.0011029243469238281 seconds
+Currently processing object mlratings.csv: 100.000%
+File mlratings.csv loaded in 4.467081785202026 seconds
+Currently processing object mltags.csv: 100.000%
+File mltags.csv loaded in 0.0373990535736084 seconds
+Currently processing object movie-actor.csv: 100.000%
+File movie-actor.csv loaded in 0.003271818161010742 seconds
+loading completed!
+preprocessing data...
+building vectors
+Building standard movie-tag vector
+Currently processing object movie-tag vector: 100.000%
+Building tf-idf movie-tag vector
+Currently processing object movie-tag vector: 100.000%
+building TMR tensor
+Scanning ratings...
+Currently processing object mlratings_table: 100.000%
+Calculating averages...
+Currently processing object movies_ratings: 100.000%
+Generating tag indices...
+Currently processing object tags: 100.000%
+Generating movie indices...
+Currently processing object movies: 100.000%
+Generating tensor...
+Currently processing object tensor: 100.000%
+creating list
+preprocessing completed!
+query>p3_task1a 41154 PCA
+10156 - First Sunday - weight 0.06820775646524109
+4152 - Brigham City - weight -0.19920709371820042
+3854 - Digimon: The Movie - weight -0.1992070937182006
+10234 - Nim's Island - weight -0.19920709371820114
+5161 - Stolen Summer - weight -0.1992070937182012
+query>p3_task1a 41154 SVD
+3233 - Wonder Boys - weight 1.4261594305678215e-15
+4681 - Clubhouse Detectives in Big Trouble - weight 1.3996861047247197e-15
+10227 - Smart People - weight 1.1305912733038884e-15
+6087 - Gods and Generals - weight 9.756096512384792e-16
+4076 - 15 Minutes - weight 8.497969103461225e-16
+query>p3_task1b 41154
+/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/gensim/models/ldamodel.py:535: RuntimeWarning: overflow encountered in exp2
+  perwordbound, np.exp2(-perwordbound), len(chunk), corpus_words
+Currently processing object similarities: 100.000%
+9739 - Freedom Writers - weight 8.221561800051811
+4681 - Clubhouse Detectives in Big Trouble - weight 7.588498853284596
+10156 - First Sunday - weight 7.373520962798224
+10165 - Hellboy II: The Golden Army - weight 7.365395417563778
+10157 - Untraceable - weight 7.26605674923819
+query>p3_task1c 41154
+3233 - Wonder Boys - weight 22009.352089288277
+4075 - Series 7: The Contenders - weight 22009.352089288277
+4076 - 15 Minutes - weight 22009.352089288277
+4152 - Brigham City - weight 22009.352089288277
+4681 - Clubhouse Detectives in Big Trouble - weight 22009.352089288277
+query>p3_task1d 41154
+3233 - Wonder Boys - weight 22009.352089288277
+4075 - Series 7: The Contenders - weight 22009.352089288277
+4076 - 15 Minutes - weight 22009.352089288277
+4152 - Brigham City - weight 22009.352089288277
+4681 - Clubhouse Detectives in Big Trouble - weight 22009.352089288277
+query>p3_task1e 41154
+Currently processing object similarities: 100.000%
+4869 - Texas Rangers - weight 0.7868647460042344
+4076 - 15 Minutes - weight 0.5816848504223057
+6087 - Gods and Generals - weight 0.46657626076139436
+10241 - Harold & Kumar Escape from Guantanamo Bay - weight 0.4021790219401149
+3233 - Wonder Boys - weight 0.3519776825853559
+query>

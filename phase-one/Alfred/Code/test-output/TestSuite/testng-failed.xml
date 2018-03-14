@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestSuite]">
+  <test name="TestConnection(failed)">
+    <classes>
+      <class name="com.alfred.mwd_project.tests.TestConnection">
+        <methods>
+          <include name="testDriverConnection"/>
+        </methods>
+      </class> <!-- com.alfred.mwd_project.tests.TestConnection -->
+    </classes>
+  </test> <!-- TestConnection(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->

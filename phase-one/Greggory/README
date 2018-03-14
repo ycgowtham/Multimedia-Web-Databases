@@ -1,0 +1,51 @@
+Setup
+
+1. Install PostgreSQL database (see SQL.txt as a reference)
+  a. create user named greggoryscherer
+  b. create database named greggoryscherer with owner greggoryscherer
+  c. create tables in database greggoryscherer and load data into tables
+     i. if using psql (postgresql command prompt) may need to log into new database
+
+2. Import project archive into eclipse and build project 
+   (Eclipse Import/Export Tutorial: http://agile.csc.ncsu.edu/SEMaterials/tutorials/import_export/)
+  a. In eclipse choose File -> Import
+  b. Choose General -> Existing Projects Into Workspace
+  c. Next
+  d. Choose Select Archive File
+  e. Choose GTS_Phase_1_Project_Archive.zip
+  f. Finish
+  g. Right click "test" package and choose Run As -> JUnit Test
+        i. all tests should pass if DB is set up correctly
+       ii. may have to import PostgreSQL JDBC driver (download here: https://jdbc.postgresql.org/)
+      iii. some tests may fail due to precision errors, double check this
+
+3. Navigate to directory containing "bin" and "src" folders
+
+4. Use the following commands:
+
+java -cp ./bin:./lib/postgresql-42.1.4.jar cli/print_actor_vector 1582699 tf
+java -cp ./bin:./lib/postgresql-42.1.4.jar cli/print_actor_vector 1582699 tfidf
+
+where 1582699 is the actor-id, feel free to substitute any actor-id.
+
+java -cp ./bin:./lib/postgresql-42.1.4.jar cli/print_genre_vector Horror tf
+java -cp ./bin:./lib/postgresql-42.1.4.jar cli/print_genre_vector Horror tfidf
+
+where Horror is the genre name, feel free to substitute any genre name.
+
+java -cp ./bin:./lib/postgresql-42.1.4.jar cli/print_user_vector 146 tf
+java -cp ./bin:./lib/postgresql-42.1.4.jar cli/print_user_vector 146 tfidf
+
+where 146 is the user-id, feel free to substitute any user-id.
+
+java -cp ./bin:./lib/postgresql-42.1.4.jar cli/differentiate_genre Horror Romance tf_idf_diff
+java -cp ./bin:./lib/postgresql-42.1.4.jar cli/differentiate_genre Horror Romance pdiff1
+java -cp ./bin:./lib/postgresql-42.1.4.jar cli/differentiate_genre Horror Romance pdiff2
+
+where Horror is the first genre and Romance is the second genre, feel free to substitute any two genres.
+
+
+
+
+
+

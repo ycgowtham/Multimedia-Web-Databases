@@ -1,0 +1,61 @@
+Using mxnet backend.
+loading csv data into memory...
+Currently processing object genome-tags.csv: 100.000%
+File genome-tags.csv loaded in 0.004101991653442383 seconds
+Currently processing object imdb-actor-info.csv: 100.000%
+File imdb-actor-info.csv loaded in 0.002931356430053711 seconds
+Currently processing object mlmovies.csv: 100.000%
+File mlmovies.csv loaded in 0.0013260841369628906 seconds
+Currently processing object mlratings.csv: 100.000%
+File mlratings.csv loaded in 4.209646940231323 seconds
+Currently processing object mltags.csv: 100.000%
+File mltags.csv loaded in 0.03655219078063965 seconds
+Currently processing object movie-actor.csv: 100.000%
+File movie-actor.csv loaded in 0.0030188560485839844 seconds
+loading completed!
+preprocessing data...
+building vectors
+Building standard movie-tag vector
+Currently processing object movie-tag vector: 100.000%
+Building tf-idf movie-tag vector
+Currently processing object movie-tag vector: 100.000%
+building TMR tensor
+Scanning ratings...
+Currently processing object mlratings_table: 100.000%
+Calculating averages...
+Currently processing object movies_ratings: 100.000%
+Generating tag indices...
+Currently processing object tags: 100.000%
+Generating movie indices...
+Currently processing object movies: 100.000%
+Generating tensor...
+Currently processing object tensor: 100.000%
+creating list
+preprocessing completed!
+query>p3_task1a 41154 PCA pf
+[1]: 10156 - First Sunday - weight 0.06820775646524109
+[2]: 4152 - Brigham City - weight -0.19920709371820042
+[3]: 3854 - Digimon: The Movie - weight -0.1992070937182006
+[4]: 10234 - Nim's Island - weight -0.19920709371820114
+[5]: 5161 - Stolen Summer - weight -0.1992070937182012
+
+Please input relevant entries,separated by commas (e.g. 1,2,3) or 'q' to end:
+> 1, 2
+
+Please input irrelevant entries,separated by commas (e.g. 1,2,3) or 'q' to end:
+> 4, 5
+[1]: 10234 - Nim's Island - weight 2.0390813460785564 (irrelevant)
+[2]: 5161 - Stolen Summer - weight 1.0195406730392784 (irrelevant)
+[3]: 10156 - First Sunday - weight 0.6771856229852693 (relevant)
+[4]: 4152 - Brigham City - weight -0.15262696027300682 (relevant)
+[5]: 3854 - Digimon: The Movie - weight -0.1992070937182006
+
+Please input relevant entries,separated by commas (e.g. 1,2,3) or 'q' to end:
+> 
+
+Please input relevant entries,separated by commas (e.g. 1,2,3) or 'q' to end:
+> q
+
+Please input irrelevant entries,separated by commas (e.g. 1,2,3) or 'q' to end:
+> q
+query>

@@ -1,0 +1,28 @@
+CREATE USER greggoryscherer;
+CREATE DATABASE greggoryscherer OWNER greggoryscherer;
+
+CREATE TABLE genome_tags ("tagId" INTEGER, "tag" VARCHAR(80));
+COPY genome_tags FROM '/path/to/genome-tags.csv' WITH (FORMAT csv, HEADER true);
+
+CREATE TABLE imdb_actor_info (actorid INTEGER, name VARCHAR(60), gender VARCHAR(1));
+COPY imdb_actor_info FROM '/path/to/imdb-actor-info.csv' WITH (FORMAT csv, HEADER true);
+
+CREATE TABLE mlmovies (movieid INTEGER, moviename VARCHAR(80), genres VARCHAR(60));
+COPY mlmovies FROM '/path/to/mlmovies.csv' WITH (FORMAT csv, HEADER true);
+
+CREATE TABLE mlratings (movieid INTEGER, userid INTEGER, imdbid INTEGER, rating INTEGER, timestamp TIMESTAMP);
+ALTER TABLE mlratings ADD PRIMARY KEY (movieid, userid, imdbid);
+COPY mlratings FROM '/path/to/mlratings.csv' WITH (FORMAT csv, HEADER true);
+
+CREATE TABLE mltags (userid INTEGER, movieid INTEGER,  tagid INTEGER, timestamp TIMESTAMP);
+COPY mltags FROM '/path/to/mltags.csv' WITH (FORMAT csv, HEADER true);
+
+CREATE TABLE mlusers (userid INTEGER);
+COPY mlusers FROM '/path/to/mlusers.csv' WITH (FORMAT csv, HEADER true);
+
+CREATE TABLE movie_actor (movieid INTEGER, actorid INTEGER, actor_movie_rank INTEGER);
+COPY movie_actor FROM '/path/to/movie-actor.csv' WITH (FORMAT csv, HEADER true);
+ALTER TABLE movie_actor ADD PRIMARY KEY (movieid, actorid);
+
+CREATE TABLE reduced_ratings (movieid INTEGER, userid INTEGER);
+INSERT INTO reduced_ratings (SELECT DISTINCT movieid, userid FROM mlratings);

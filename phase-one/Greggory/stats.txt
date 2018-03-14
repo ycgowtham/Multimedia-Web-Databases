@@ -1,0 +1,7 @@
+max tag timestamp: 1231095529
+min tag timestamp: 1136748928
+diff = 94346601
+total movies: 834
+total actors: 27279
+total genres: 19 * (18 that have movies w/ tags)
+total users: 30001

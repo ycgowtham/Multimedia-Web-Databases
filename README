@@ -1,0 +1,45 @@
+Readme
+
+System requirements/installation and execution instructions
+
+0. Running environment, any machine/OS with Python3.0 installed.(numpy, tensorly, sklearn, gensim are prerequisite Python libraries)
+1. Put all csv data file under the “data” folder.
+2. Go to the “Code” folder using your command line tool. (Shell or CMD) 
+3. Execute the program with “python3 main.py”.
+4. Wait for around 20 seconds, you will see the following information during this progress.
+“loading csv data into memroy...
+loading completed!
+preprocessing data...
+preprocessing completed!”
+5. After you see a “query>”, you can running your query now.
+6. How to run each query command, please refer the section “Interface Specifications” for more detail.
+
+Interface specifications
+
+The system-level interface is by command line. The following commands should produce the corresponding outputs for each task. 
+p3_task1a <user_id> <PCA|SVD> [pf]  
+Param 1: user_id, a valid user id without quote, e.g. 41154 
+Param 2: model, e.g. PCA 
+Param 3: pf, enable task2 probabilistic feedback. 
+p3_task1b <user_id> [pf] 
+Param 1: user_id, a valid user id without quote, e.g. 41154 
+Param 2: pf, enable task2 probabilistic feedback. 
+p3_task1c <user_id> [pf] 
+Param 1: user_id, a valid user id without quote, e.g. 41154 
+Param 2: pf, enable task2 probabilistic feedback. 
+p3_task1d <user_id> [pf] 
+Param 1: user_id, a valid user id without quote, e.g. 41154 
+Param 2: pf, enable task2 probabilistic feedback. 
+p3_task1e <user_id> [pf] 
+Param 1: user_id, a valid user id without quote, e.g. 41154 
+Param 2: pf, enable task2 probabilistic feedback. 
+p3_task3 <l> <k> 
+Param 1: l, the number of layers in LSH. 
+Param 2: k, the number of hash functions in each layer 
+For the further interface information, please follow the instruction in each command. 
+For the interface of task2/4, also follow the instruction indicated in each task1/3 command. 
+p3_task5 <NN | DT | SVM> <r> 
+Param 1: classification algorithm from NN|DT|SVM, e.g. NN. 
+Param 2: r range 
+reset wc 
+Helper function to release the memory 

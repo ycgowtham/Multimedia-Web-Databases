@@ -1,0 +1,198 @@
+Using mxnet backend.
+loading csv data into memory...
+Currently processing object genome-tags.csv: 100.000%
+File genome-tags.csv loaded in 0.0035037994384765625 seconds
+Currently processing object imdb-actor-info.csv: 100.000%
+File imdb-actor-info.csv loaded in 0.0030019283294677734 seconds
+Currently processing object mlmovies.csv: 100.000%
+File mlmovies.csv loaded in 0.0010004043579101562 seconds
+Currently processing object mlratings.csv: 100.000%
+File mlratings.csv loaded in 4.0147364139556885 seconds
+Currently processing object mltags.csv: 100.000%
+File mltags.csv loaded in 0.03302192687988281 seconds
+Currently processing object movie-actor.csv: 100.000%
+File movie-actor.csv loaded in 0.0030019283294677734 seconds
+loading completed!
+preprocessing data...
+building vectors
+Building standard movie-tag vector
+Currently processing object movie-tag vector: 100.000%
+Building tf-idf movie-tag vector
+Currently processing object movie-tag vector: 100.000%
+building TMR tensor
+Scanning ratings...
+Currently processing object mlratings_table: 100.000%
+Calculating averages...
+Currently processing object movies_ratings: 100.000%
+Generating tag indices...
+Currently processing object tags: 100.000%
+Generating movie indices...
+Currently processing object movies: 100.000%
+Generating tensor...
+Currently processing object tensor: 100.000%
+creating list
+preprocessing completed!
+query>p3_task5 DT
+Enter number of labels: 3
+Enter label: comedy
+Enter space separated movies for label comedy: 3233 5123 6166 9775 10241
+Enter label: thriller
+Enter space separated movies for label thriller: 3216 3324 3961 4057 4076 4133
+Enter label: drama
+Enter space separated movies for label drama: 4064 4132 5161 9739 9753
+{'3189': 'thriller', '3216': 'thriller', '3233': 'comedy', '3323': 'thriller', '3324': 'thriller', '3366': 'thriller', '3447': 'comedy', '3467': 'comedy', '3854': 'comedy', '3906': 'drama', '3961': 'thriller', '4057': 'thriller', '4064': 'drama', '4075': 'comedy', '4076': 'thriller', '4132': 'drama', '4133': 'thriller', '4152': 'drama', '4252': 'drama', '4354': 'drama', '4681': 'thriller', '4869': 'drama', '4999': 'drama', '5000': 'drama', '5078': 'drama', '5123': 'comedy', '5161': 'drama', '5171': 'thriller', '5217': 'comedy', '5293': 'drama', '5324': 'drama', '5915': 'drama', '6057': 'drama', '6058': 'drama', '6087': 'thriller', '6097': 'thriller', '6163': 'drama', '6166': 'comedy', '6185': 'drama', '6425': 'drama', '6427': 'comedy', '7062': 'comedy', '7202': 'comedy', '7212': 'thriller', '7232': 'drama', '7235': 'thriller', '7247': 'thriller', '7249': 'drama', '7320': 'thriller', '7755': 'thriller', '8779': 'drama', '8860': 'drama', '8865': 'drama', '8901': 'drama', '8902': 'drama', '8930': 'drama', '8935': 'thriller', '8939': 'drama', '8978': 'thriller', '9417': 'drama', '9419': 'drama', '9420': 'comedy', '9432': 'drama', '9438': 'thriller', '9441': 'thriller', '9443': 'drama', '9480': 'drama', '9514': 'drama', '9739': 'drama', '9753': 'drama', '9775': 'comedy', '9779': 'comedy', '9797': 'thriller', '9807': 'drama', '9816': 'comedy', '9818': 'comedy', '9821': 'drama', '9833': 'comedy', '10143': 'drama', '10156': 'thriller', '10157': 'thriller', '10165': 'drama', '10227': 'drama', '10234': 'thriller', '10241': 'comedy'}
+query>p3_task5 SVM
+Enter number of labels: 3
+Enter label: comedy
+Enter space separated movies for label comedy: 3233 5123 6166 9775 10241
+Enter label: thriller
+Enter space separated movies for label thriller: 3216 3324 3961 4057 4076 4133
+Enter label: drama
+Enter space separated movies for label drama: 4064 4132 5161 9739 9753
+3189: Scream 3 ==> comedy
+3323: Erin Brockovich ==> comedy
+3366: Romeo Must Die ==> comedy
+3447: American Psycho ==> comedy
+3467: U-571 ==> comedy
+3854: Digimon: The Movie ==> comedy
+3906: Dungeons & Dragons ==> thriller
+4075: Series 7: The Contenders ==> comedy
+4152: Brigham City ==> thriller
+4252: Swordfish ==> thriller
+4354: Final Fantasy: The Spirits Within ==> thriller
+4681: Clubhouse Detectives in Big Trouble ==> comedy
+4869: Texas Rangers ==> thriller
+4999: Collateral Damage ==> comedy
+5000: Rollerball ==> thriller
+5078: Full Frontal ==> thriller
+5171: Panic Room ==> comedy
+5217: Murder by Numbers ==> comedy
+5293: Insomnia ==> comedy
+5324: Scooby-Doo ==> comedy
+5915: National Security ==> thriller
+6057: Shanghai Knights ==> drama
+6058: Daredevil ==> thriller
+6087: Gods and Generals ==> drama
+6097: Cradle 2 the Grave ==> drama
+6163: Basic ==> comedy
+6185: Levity ==> thriller
+6425: Sinbad: Legend of the Seven Seas ==> thriller
+6427: Swimming Pool ==> comedy
+7062: Torque ==> comedy
+7202: Against the Ropes ==> comedy
+7212: Starsky & Hutch ==> comedy
+7232: Agent Cody Banks 2: Destination London ==> thriller
+7235: Spartan ==> comedy
+7247: Dawn of the Dead ==> comedy
+7249: Taking Lives ==> thriller
+7320: Godsend ==> comedy
+7755: Harry Potter and the Prisoner of Azkaban ==> thriller
+8779: Charlie and the Chocolate Factory ==> comedy
+8860: Assault on Precinct 13 ==> thriller
+8865: Boogeyman ==> thriller
+8901: Constantine ==> drama
+8902: Son of the Mask ==> thriller
+8930: Diary of a Mad Black Woman ==> comedy
+8935: Be Cool ==> comedy
+8939: Robots ==> drama
+8978: Ice Princess ==> comedy
+9417: Bandidas ==> drama
+9419: Annapolis ==> comedy
+9420: Big Momma's House 2 ==> drama
+9432: When a Stranger Calls ==> thriller
+9438: Eight Below ==> comedy
+9441: Madea's Family Reunion ==> comedy
+9443: Ultraviolet ==> comedy
+9480: Stay Alive ==> comedy
+9514: Over the Hedge ==> thriller
+9779: Epic Movie ==> comedy
+9797: Breach ==> comedy
+9807: Hot Fuzz ==> comedy
+9816: Zodiac ==> comedy
+9818: Wild Hogs ==> drama
+9821: United 300 ==> drama
+9833: The Premonition ==> comedy
+10143: Cloverfield ==> thriller
+10156: First Sunday ==> thriller
+10157: Untraceable ==> drama
+10165: Hellboy II: The Golden Army ==> comedy
+10227: Smart People ==> drama
+10234: Nim's Island ==> comedy
+query>p3_task5 NN 3
+Enter number of labels: 3
+Enter label: comedy
+Enter space separated movies for label comedy: 3233 5123 6166 9775 10241
+Enter label: thriller
+Enter space separated movies for label thriller: 3216 3324 3961 4057 4076 4133
+Enter label: drama
+Enter space separated movies for label drama: 4064 4132 5161 9739 9753
+3189: Scream 3 ==> comedy
+3323: Erin Brockovich ==> comedy
+3366: Romeo Must Die ==> comedy
+3447: American Psycho ==> thriller
+3467: U-571 ==> comedy
+3854: Digimon: The Movie ==> thriller
+3906: Dungeons & Dragons ==> comedy
+4075: Series 7: The Contenders ==> thriller
+4152: Brigham City ==> comedy
+4252: Swordfish ==> comedy
+4354: Final Fantasy: The Spirits Within ==> comedy
+4681: Clubhouse Detectives in Big Trouble ==> comedy
+4869: Texas Rangers ==> thriller
+4999: Collateral Damage ==> comedy
+5000: Rollerball ==> drama
+5078: Full Frontal ==> thriller
+5171: Panic Room ==> thriller
+5217: Murder by Numbers ==> comedy
+5293: Insomnia ==> drama
+5324: Scooby-Doo ==> comedy
+5915: National Security ==> thriller
+6057: Shanghai Knights ==> comedy
+6058: Daredevil ==> comedy
+6087: Gods and Generals ==> thriller
+6097: Cradle 2 the Grave ==> comedy
+6163: Basic ==> comedy
+6185: Levity ==> comedy
+6425: Sinbad: Legend of the Seven Seas ==> thriller
+6427: Swimming Pool ==> comedy
+7062: Torque ==> comedy
+7202: Against the Ropes ==> comedy
+7212: Starsky & Hutch ==> comedy
+7232: Agent Cody Banks 2: Destination London ==> comedy
+7235: Spartan ==> comedy
+7247: Dawn of the Dead ==> comedy
+7249: Taking Lives ==> thriller
+7320: Godsend ==> comedy
+7755: Harry Potter and the Prisoner of Azkaban ==> comedy
+8779: Charlie and the Chocolate Factory ==> thriller
+8860: Assault on Precinct 13 ==> thriller
+8865: Boogeyman ==> comedy
+8901: Constantine ==> comedy
+8902: Son of the Mask ==> comedy
+8930: Diary of a Mad Black Woman ==> comedy
+8935: Be Cool ==> thriller
+8939: Robots ==> comedy
+8978: Ice Princess ==> drama
+9417: Bandidas ==> comedy
+9419: Annapolis ==> thriller
+9420: Big Momma's House 2 ==> drama
+9432: When a Stranger Calls ==> comedy
+9438: Eight Below ==> thriller
+9441: Madea's Family Reunion ==> comedy
+9443: Ultraviolet ==> comedy
+9480: Stay Alive ==> comedy
+9514: Over the Hedge ==> thriller
+9779: Epic Movie ==> comedy
+9797: Breach ==> thriller
+9807: Hot Fuzz ==> comedy
+9816: Zodiac ==> comedy
+9818: Wild Hogs ==> comedy
+9821: United 300 ==> comedy
+9833: The Premonition ==> comedy
+10143: Cloverfield ==> comedy
+10156: First Sunday ==> comedy
+10157: Untraceable ==> comedy
+10165: Hellboy II: The Golden Army ==> comedy
+10227: Smart People ==> comedy
+10234: Nim's Island ==> comedy
+query>
